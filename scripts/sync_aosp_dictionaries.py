@@ -10,7 +10,7 @@ import urllib.request
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-BASE_RELEASE_URL = "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0"
+BASE_RELEASE_URL = "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0"
 UPSTREAM_BASE = "https://codeberg.org/Helium314/aosp-dictionaries/raw/branch/main/dictionaries"
 
 def sha256_file(path: Path) -> str:

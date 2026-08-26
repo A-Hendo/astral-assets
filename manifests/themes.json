@@ -6,7 +6,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/aurora.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/aurora.akt",
     "preview_url": null,
     "sha256": "5c7772b539a470206fb22371b68cfcef6d871a842335b3aa02cdf028b5e757ce",
     "size_bytes": 1214
@@ -18,7 +18,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/autumn.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/autumn.akt",
     "preview_url": null,
     "sha256": "5a15fd58d0e833a30759bb7ed1a6f050cd518d2a971fd920c86991f81f8e1604",
     "size_bytes": 1215
@@ -30,7 +30,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/cafe.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/cafe.akt",
     "preview_url": null,
     "sha256": "07b99341ba82ba620ccef003508dcdc59b00973f0d3c6c24f94d5ae1f8b9442e",
     "size_bytes": 541
@@ -42,7 +42,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/carbon.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/carbon.akt",
     "preview_url": null,
     "sha256": "bc491a97633c1ccfa52056acfff7fa0e673cbe9d2928639d266a66313bb21df3",
     "size_bytes": 543
@@ -54,7 +54,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/cyberpunk.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/cyberpunk.akt",
     "preview_url": null,
     "sha256": "9c49601db1b004909e7b1d112f5d95ba4ef32467be63b712e54bc8869c6e9bb6",
     "size_bytes": 1215
@@ -66,7 +66,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/dark.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/dark.akt",
     "preview_url": null,
     "sha256": "9ce7257ac42b63e3848495b2c04d99699b5540508ece7f32dcf445fd9ec86523",
     "size_bytes": 541
@@ -78,7 +78,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/dracula.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/dracula.akt",
     "preview_url": null,
     "sha256": "5fddfb1d24b419240c8162b8f01fa8266401eb89eb39d4142b3ae26c056ab8bd",
     "size_bytes": 1217
@@ -90,7 +90,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/forest.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/forest.akt",
     "preview_url": null,
     "sha256": "d0f64295d5d62e4d8baf1e73e00027730533892006136c0a26dac8c5458a4ab5",
     "size_bytes": 1214
@@ -102,7 +102,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/glassmorphism.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/glassmorphism.akt",
     "preview_url": null,
     "sha256": "04705e277c250ba3b0c2ef2ef31a77488677d5eada49a2dbbe8315c4ef501695",
     "size_bytes": 1221
@@ -114,7 +114,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/glow_cyber.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/glow_cyber.akt",
     "preview_url": null,
     "sha256": "f003a94d5b5574c361644cf601746672767098a286af081762e0bc6d68a7ff96",
     "size_bytes": 1216
@@ -126,7 +126,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/gmk_chalk.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/gmk_chalk.akt",
     "preview_url": null,
     "sha256": "2970462fcee4d88a2c4ca64990ce01863c8a090bbf9e07f4f7090e377c26f992",
     "size_bytes": 1218
@@ -138,7 +138,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/gruvbox.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/gruvbox.akt",
     "preview_url": null,
     "sha256": "67cf786fcb284f5f12b83b58673ac36739972fb83ff39bf6a272264b7e818b4d",
     "size_bytes": 1216
@@ -150,7 +150,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/iridescent.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/iridescent.akt",
     "preview_url": null,
     "sha256": "a597527fb79f3be282b6912bb51f886e29e5c6b879ddee80392496318f4e179c",
     "size_bytes": 1220
@@ -162,7 +162,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/lavender.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/lavender.akt",
     "preview_url": null,
     "sha256": "7df69bb96b89c54678074d5c693e855dac91c6e2616f028344a4ea5903c08b59",
     "size_bytes": 545
@@ -174,7 +174,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/light.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/light.akt",
     "preview_url": null,
     "sha256": "ca2cbb3a5aa33c198f8684771a11d4bd3a33b615db950bb5c860d3a108b92c71",
     "size_bytes": 542
@@ -186,7 +186,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/matcha.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/matcha.akt",
     "preview_url": null,
     "sha256": "7afe9c3bf020bcd091e53100a24ec8c70fecdd2e872c831b566d8df04955b5d8",
     "size_bytes": 543
@@ -198,7 +198,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/matrix.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/matrix.akt",
     "preview_url": null,
     "sha256": "20ddb1cffa98d69e28279923660c2c3dc5b40342096c96d8a0941045a6c2da14",
     "size_bytes": 1210
@@ -210,7 +210,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/midnight.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/midnight.akt",
     "preview_url": null,
     "sha256": "d8118da897a34ab04b149b117bf2e923efb0c39b51e925166a107bf578a9be94",
     "size_bytes": 545
@@ -222,7 +222,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/midnight_aurora.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/midnight_aurora.akt",
     "preview_url": null,
     "sha256": "b5c94ed3c171d2af859a4150d13637f9a3ac0f9135042a85d8dafed49d3b18af",
     "size_bytes": 1444
@@ -234,7 +234,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/military.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/military.akt",
     "preview_url": null,
     "sha256": "aef0b5e1aa5823a0428926024972bda766d03918aaad9769e661bc0cd71d6000",
     "size_bytes": 1218
@@ -246,7 +246,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/monochrome.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/monochrome.akt",
     "preview_url": null,
     "sha256": "006b3c8108b5c1c688766c1040196df2624b92dd1f48412c8cdeb41c749012b0",
     "size_bytes": 547
@@ -258,7 +258,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/neo_brutalism.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/neo_brutalism.akt",
     "preview_url": null,
     "sha256": "0b9135a610ef76e644c00c8a57b3074e4ee3c418a7fab8ed009ecdb79a8abfc9",
     "size_bytes": 1222
@@ -270,7 +270,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/neon_miami.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/neon_miami.akt",
     "preview_url": null,
     "sha256": "9740191ccd5ae8c9f57a555776958ccbe33d7878925cb5983a405527b51d67f0",
     "size_bytes": 1216
@@ -282,7 +282,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/nordic.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/nordic.akt",
     "preview_url": null,
     "sha256": "e2e921ea98e36a4e9ed9a12f6757e3451b4fe6bc8c60af4f4cd310a6f89fae0f",
     "size_bytes": 543
@@ -294,7 +294,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/ocean.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/ocean.akt",
     "preview_url": null,
     "sha256": "b19f881622804fe4a4018a30b754482d66628a24b22a8c228786fdde13fafcc7",
     "size_bytes": 1214
@@ -306,7 +306,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/retro_ibm.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/retro_ibm.akt",
     "preview_url": null,
     "sha256": "4e184de8fc0aa12ad1bf142103d49ac5977b80aefaaae3e782d1acf4a9419399",
     "size_bytes": 1218
@@ -318,7 +318,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/rose_gold.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/rose_gold.akt",
     "preview_url": null,
     "sha256": "daec06f7051dc2883f99172d10341d6ac1767e2a656ed3082dbac874d2ba8f71",
     "size_bytes": 1219
@@ -330,7 +330,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/sakura.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/sakura.akt",
     "preview_url": null,
     "sha256": "50be927f3cff3f0bc5bb01d6b46bf4581be986ef6d050b2fd1e01c7b9cf38a80",
     "size_bytes": 1216
@@ -342,7 +342,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/solarized.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/solarized.akt",
     "preview_url": null,
     "sha256": "a629e64dd8899a6bda5bc1207a701d9c10b80606665b53ba7cf0e382175d1fcc",
     "size_bytes": 1218
@@ -354,7 +354,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/steampunk.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/steampunk.akt",
     "preview_url": null,
     "sha256": "df5b61825405c9556456ac7dfa5e2a44e6238483b73ef31aa2ebdf8db2658aee",
     "size_bytes": 1219
@@ -366,7 +366,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/sunset.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/sunset.akt",
     "preview_url": null,
     "sha256": "f481b56173d614a72acd2b45fe0d37b3ae9f53051369122aea40c816018147c0",
     "size_bytes": 1215
@@ -378,7 +378,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/terminal.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/terminal.akt",
     "preview_url": null,
     "sha256": "b3bf8cabb953889392456b5c1e846372f82a2951f15a6dd9b899b0e20b340252",
     "size_bytes": 1217
@@ -390,7 +390,7 @@
     "author": "Astral Team",
     "author_url": "https://github.com/A-Hendo",
     "version": 1,
-    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/vaporwave.akt",
+    "download_url": "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0/vaporwave.akt",
     "preview_url": null,
     "sha256": "ff004a9e160b2d6ae768cdb89f8ac175b70c8023eb9118318d711c3f0c93ea49",
     "size_bytes": 1216

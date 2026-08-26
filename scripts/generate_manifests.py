@@ -8,7 +8,9 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 BASE_RAW_URL = "https://raw.githubusercontent.com/A-Hendo/astral-assets/main"
-BASE_RELEASE_URL = "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0"
+BASE_THEMES_RELEASE_URL = "https://github.com/A-Hendo/astral-assets/releases/download/themes_v1.0.0"
+BASE_SOUNDS_RELEASE_URL = "https://github.com/A-Hendo/astral-assets/releases/download/sounds_v1.0.0"
+BASE_MODELS_RELEASE_URL = "https://github.com/A-Hendo/astral-assets/releases/download/models_v1.0.0" 
 
 def sha256_file(path: Path) -> str:
     h = hashlib.sha256()
@@ -51,7 +53,7 @@ def generate_themes_manifest():
                 "author": "Astral Team" if category == "official" else "Community",
                 "author_url": "https://github.com/A-Hendo" if category == "official" else "",
                 "version": 1,
-                "download_url": f"{BASE_RELEASE_URL}/{akt_file.name}",
+                "download_url": f"{BASE_THEMES_RELEASE_URL}/{akt_file.name}",
                 "preview_url": f"{BASE_RAW_URL}/themes/previews/{category}/{preview_filename}" if preview_path.exists() else None,
                 "sha256": sha,
                 "size_bytes": size_bytes
@@ -82,7 +84,7 @@ def generate_sounds_manifest():
                 "category": category,
                 "author": "Astral Team" if category == "official" else "Community",
                 "version": 1,
-                "download_url": f"{BASE_RELEASE_URL}/{zip_file.name}",
+                "download_url": f"{BASE_SOUNDS_RELEASE_URL}/{zip_file.name}",
                 "sha256": sha,
                 "size_bytes": size_bytes
             }
@@ -107,7 +109,7 @@ def generate_index_manifest():
 def generate_models_manifest():
     models = {
         "version": 1,
-        "base_url": BASE_RELEASE_URL,
+        "base_url": BASE_MODELS_RELEASE_URL,
         "bundled_locales": ["en"],
         "cloud_locales": [
             "ar", "cs", "da", "de", "el", "es", "fi", "fr", "hu", "id", "it",

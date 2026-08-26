@@ -2,7 +2,7 @@
   {
     "locale": "ar",
     "name": "Arabic (\u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ar.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ar.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "61c7351bceceb44f01de6ef9ad7e4e26afa3e135da5930531fb6d4dc2f5b7480",
@@ -11,7 +11,7 @@
   {
     "locale": "hy",
     "name": "Armenian (\u0540\u0561\u0575\u0565\u0580\u0565\u0576)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_hy.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_hy.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "316e9a7e610b381f271926f3bd38d7bffd640befda99129f5f1092fa6b19a04a",
@@ -20,7 +20,7 @@
   {
     "locale": "as",
     "name": "Assamese (\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_as.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_as.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "bb2b5373748e3eb1daebfbdf66141102c5ffb63e3bba03326c8b00bfc7b7bb18",
@@ -29,7 +29,7 @@
   {
     "locale": "az",
     "name": "Azerbaijani (Az\u0259rbaycan)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_az.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_az.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "91025ccdf1c92beaab95a8307080cddb0950f0780595eace21e8bfc5da379df7",
@@ -38,7 +38,7 @@
   {
     "locale": "bn2",
     "name": "BN2",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_bn2.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_bn2.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "f10eef860d5cb06cd772360fe19dfe256799c52a78fdc31a0cd55634c909d3a2",
@@ -47,7 +47,7 @@
   {
     "locale": "eu",
     "name": "Basque (Euskara)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_eu.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_eu.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "1e147d575efda14bf17659f255395780a766fde14aca316b8a06065d04fcbdd9",
@@ -56,7 +56,7 @@
   {
     "locale": "be",
     "name": "Belarusian (Belarussian)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_be.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_be.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "0d02046c84e14c1a9fd541c9be869c4e558e40ae706c20b7667c2df36fc72b80",
@@ -65,7 +65,7 @@
   {
     "locale": "bn",
     "name": "Bengali (\u09ac\u09be\u0982\u09b2\u09be)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_bn.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_bn.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "dd555eee57aceec08200cc293ffafd29a13bb531156e3a36e5a16ff6895d13a6",
@@ -74,7 +74,7 @@
   {
     "locale": "bs",
     "name": "Bosnian (Bosanski)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_bs.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_bs.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "5c8fd57009e7b6aeb07961473fbca17eba23b591d003fcdde48ea68b2b605dd4",
@@ -83,7 +83,7 @@
   {
     "locale": "bg",
     "name": "Bulgarian (\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_bg.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_bg.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "4a0eb372dd8bfe11b6a126e0e2801f035156ec9822d5f736368930df467fd4b6",
@@ -92,7 +92,7 @@
   {
     "locale": "ca",
     "name": "Catalan (Catal\u00e0)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ca.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ca.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "30657ba9c7604c560963e6107b170ae1fb1fa985a24c9688289d51d277e1af06",
@@ -101,7 +101,7 @@
   {
     "locale": "hr",
     "name": "Croatian (Hrvatski)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_hr.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_hr.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "3c1bb98883ac5bc96a96e206972b5fc8c4a04ad8992d26c4d365ae0cdcc8f686",
@@ -110,7 +110,7 @@
   {
     "locale": "cs",
     "name": "Czech (\u010ce\u0161tina)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_cs.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_cs.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "d2317360a5af36b9db484892cbb2975d53cd40c01b9e8a2a1f23251be80cfa86",
@@ -119,7 +119,7 @@
   {
     "locale": "da",
     "name": "Danish (Dansk)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_da.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_da.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "7eca55127764b36d7823b7ff86b4e2a0dabbf76bfc0d5659df657c6ea0f24f13",
@@ -128,7 +128,7 @@
   {
     "locale": "nl",
     "name": "Dutch (Nederlands)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_nl.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_nl.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "537078e3ba369c87063031f03051d80a0ee121a5459f8192811ca254fc959d19",
@@ -137,7 +137,7 @@
   {
     "locale": "el2",
     "name": "EL2",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_el2.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_el2.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "bc93c0b59c4059442c9b451f213aec5d83e8c389736cf325de387bdd4770e1ae",
@@ -146,8 +146,8 @@
   {
     "locale": "en_au",
     "name": "English (Australia)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_en_au.dict",
-    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/emoji_en_au.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_en_au.dict",
+    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/emoji_en_au.dict",
     "version": 1,
     "sha256": "f86e87efbb5ac9b43df865f3223abaae4abed16351e9cd0ebc939cb0551a72bf",
     "size_bytes": 1027323
@@ -155,8 +155,8 @@
   {
     "locale": "en_gb",
     "name": "English (UK)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_en_gb.dict",
-    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/emoji_en_gb.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_en_gb.dict",
+    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/emoji_en_gb.dict",
     "version": 1,
     "sha256": "17f8b5ff2227167d3a0a3cb436c8982b8957a94fe0e41bb11561c8cf4b51541f",
     "size_bytes": 3344583
@@ -164,8 +164,8 @@
   {
     "locale": "en_us",
     "name": "English (US)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_en_us.dict",
-    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/emoji_en_us.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_en_us.dict",
+    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/emoji_en_us.dict",
     "version": 1,
     "sha256": "bd950ef4b57655120eee65cee62a5d216a63f721d9a8bb759ce2022437840443",
     "size_bytes": 2956881
@@ -173,7 +173,7 @@
   {
     "locale": "eo",
     "name": "Esperanto",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_eo.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_eo.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "b1e4ead01631d578bcae538d40cdb7a17fb4ee2721814e363dfeaf404765ae69",
@@ -182,7 +182,7 @@
   {
     "locale": "fi",
     "name": "Finnish (Suomi)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_fi.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_fi.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "87bc832f9b0f191907f1d08a12527a2c0e8854e23db807fa28af1936a4c0a87a",
@@ -191,8 +191,8 @@
   {
     "locale": "fr",
     "name": "French (Fran\u00e7ais)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_fr.dict",
-    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/emoji_fr.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_fr.dict",
+    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/emoji_fr.dict",
     "version": 1,
     "sha256": "6cc7bc856de7928606ec974a17887f80848c7692560824ab05153a48cb193c94",
     "size_bytes": 1328933
@@ -200,7 +200,7 @@
   {
     "locale": "gom",
     "name": "GOM",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_gom.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_gom.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "9bf6d8d2e076249d516ed18c7522d133d9ac8f4ce8061231fa82ede68f240e45",
@@ -209,7 +209,7 @@
   {
     "locale": "gu",
     "name": "GU",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_gu.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_gu.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "54298a813d2425dc666882604fbc86f9487819417e25599f9660612be7d32da5",
@@ -218,7 +218,7 @@
   {
     "locale": "gl",
     "name": "Galician (Galego)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_gl.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_gl.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "91da6b79b1fd124b85fa64095ed90b407bcb037349939ea33183fea591f927f2",
@@ -227,7 +227,7 @@
   {
     "locale": "ka",
     "name": "Georgian (\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ka.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ka.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "d45c1dc02a76e527bef7d330f8d1f15a4c4dffef8f58215f4bd5ea91e5f28ce6",
@@ -236,7 +236,7 @@
   {
     "locale": "de",
     "name": "German (Deutsch)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_de.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_de.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "b2e0393587a8a0d974e6bbee2ee50acd2af6b4ec2d138334ce3626873a0e85ad",
@@ -245,7 +245,7 @@
   {
     "locale": "de_ch",
     "name": "German (Swiss) (Deutsch)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_de_ch.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_de_ch.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "f621788f28eda8531d63e8ef32dc833075e76b5688d348ffa4b12dfaa80d849e",
@@ -254,7 +254,7 @@
   {
     "locale": "el",
     "name": "Greek (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_el.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_el.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "c0794d9e5f85fbe623b7b3e617f2a9d7f45011648b289a0b263dfdafddac9332",
@@ -263,7 +263,7 @@
   {
     "locale": "he",
     "name": "Hebrew (\u05e2\u05d1\u05e8\u05d9\u05ea)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_he.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_he.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "8410c262ef526cf1b7c818c2be1a6ae0dd86ec131eddb48f9c067edca615573e",
@@ -272,7 +272,7 @@
   {
     "locale": "hi_zz",
     "name": "Hindi (Hinglish)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_hi_zz.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_hi_zz.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "928601773e693660e831aacd21d14e803289cfcc70ae309c7bafa2c3572014fc",
@@ -281,7 +281,7 @@
   {
     "locale": "hi",
     "name": "Hindi (\u0939\u093f\u0928\u094d\u0926\u0940)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_hi.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_hi.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "57d1e2e7d0b08beec4d540952d0e538698c5d82f4e6a2cdba938800bfdc4a80d",
@@ -290,7 +290,7 @@
   {
     "locale": "hu",
     "name": "Hungarian (Magyar)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_hu.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_hu.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "9937ec9a8929536ba6dea19f92e984b8a4aaea82d385dcbe239f9586bca415d8",
@@ -299,7 +299,7 @@
   {
     "locale": "iw",
     "name": "IW",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_iw.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_iw.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "7cf81b85f8602d970d1b4cd4ca8136e4a65313784fdf9011f17fdfc2e0b8f0c5",
@@ -308,7 +308,7 @@
   {
     "locale": "ga",
     "name": "Irish (Gaeilge)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ga.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ga.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "78ff4aa74374cd738d9d0e41d25eb557e652772bc9bf94e3299dc7e1859219ce",
@@ -317,7 +317,7 @@
   {
     "locale": "it",
     "name": "Italian (Italiano)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_it.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_it.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "fa9841c4a10fad7a422a61c84fb1c8bd7618b5b9d2debddaa84e1e95f841c1e8",
@@ -326,7 +326,7 @@
   {
     "locale": "ks",
     "name": "KS",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ks.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ks.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "8208a0d7374415cc610e2b605c44a0d2beed4920e44f63b1a9f5e838b95557a3",
@@ -335,7 +335,7 @@
   {
     "locale": "kn",
     "name": "Kannada (\u0a95\u0aa8\u0acd\u0aa8\u0aa1)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_kn.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_kn.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "f58d0bdadeba0f08330c1233448f47b18cb459eddd9f24bfcf56cf638d8c9013",
@@ -344,7 +344,7 @@
   {
     "locale": "km",
     "name": "Khmer (\u1797\u17b6\u179f\u17b6\u1781\u17d2\u1798\u17c2\u179a)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_km.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_km.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "08687a0119f7e8e9fb1ab30d8fb757c22cab9606dc38a5392192581bacc3dc53",
@@ -353,7 +353,7 @@
   {
     "locale": "la",
     "name": "Latin (Latina)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_la.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_la.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "b6d905cdfdf18ee4743a561c7bf3ad33a9fd0266ea49e2d85e016fc08d2d3735",
@@ -362,7 +362,7 @@
   {
     "locale": "lv",
     "name": "Latvian (Latvie\u0161u)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_lv.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_lv.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "d9ecea24f9b769462834c8760661678f62f33267bec0cc9b069e8fc2ae986e32",
@@ -371,7 +371,7 @@
   {
     "locale": "lt",
     "name": "Lithuanian (Lietuvi\u0173)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_lt.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_lt.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "47155863f9fe3c188c9c5d4f850d02a4b499e9828fecc4bfb8305f65fedfcef2",
@@ -380,7 +380,7 @@
   {
     "locale": "lb",
     "name": "Luxembourgish",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_lb.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_lb.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "38f0215d78b749ce8029952001846176a5dbbfe85f723c141e5b60fc1be910b8",
@@ -389,7 +389,7 @@
   {
     "locale": "mai",
     "name": "MAI",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_mai.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_mai.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "211d08ea29ae85e9c449665a78f9fcefb6aac16a8b60d4642029b49b1e271fda",
@@ -398,7 +398,7 @@
   {
     "locale": "mg",
     "name": "MG",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_mg.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_mg.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "b3f06637bd3df8c8ac6626390c85fcba172bda9af69e16ca7e4858d0a3b02a0a",
@@ -407,7 +407,7 @@
   {
     "locale": "mwl",
     "name": "MWL",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_mwl.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_mwl.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "5b036c1fbac15712d81cc9144301332c357c1a64f1b9dc1dac0b6d06c42978fd",
@@ -416,7 +416,7 @@
   {
     "locale": "mk",
     "name": "Macedonian (\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_mk.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_mk.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "2c889377c660ec79a5131172baff8d87f568667665a81685bde555ae4ae0ea4c",
@@ -425,7 +425,7 @@
   {
     "locale": "ml",
     "name": "Malayalam (\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ml.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ml.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "eb86c6ab70cb1486c759a159b4ca39cd19bf9ec099ea92afb24a76effa71fd11",
@@ -434,7 +434,7 @@
   {
     "locale": "mr",
     "name": "Marathi (\u092e\u0930\u093e\u0920\u0940)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_mr.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_mr.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "acf2164c98d715501cdcd34a8021791af3f08f6845bd245b740ba7a3e452d36b",
@@ -443,7 +443,7 @@
   {
     "locale": "nb",
     "name": "Norwegian Bokm\u00e5l (Norsk)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_nb.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_nb.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "6e4c39ba5e471af8be2d8ea4a62d2cf0afded233481a3f7c6486889696014ffe",
@@ -452,7 +452,7 @@
   {
     "locale": "or",
     "name": "Odia (\u0b13\u0b21\u0b3c\u0b3f\u0b06)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_or.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_or.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "cb8d9163245752f96be76326e6fcedbe73ba6fde7373db4511157944d0970582",
@@ -461,7 +461,7 @@
   {
     "locale": "pl",
     "name": "Polish (Polski)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_pl.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_pl.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "5b2d08c14128bcfb9d62db3cd5df8f0af8f7c2e653d9913f72f9f87d64648864",
@@ -470,7 +470,7 @@
   {
     "locale": "pt_br",
     "name": "Portuguese (Brazil)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_pt_br.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_pt_br.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "2af42e311220b7440c4b62fbdbddc439626621ec8c5873f4146b045337a58b84",
@@ -479,7 +479,7 @@
   {
     "locale": "pt_pt",
     "name": "Portuguese (Portugal)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_pt_pt.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_pt_pt.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "c9e5607bd63143930b41ca91919bce23e8abca8172ad24a0fdede029398c95d7",
@@ -488,7 +488,7 @@
   {
     "locale": "pa",
     "name": "Punjabi (\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_pa.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_pa.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "f392e78a9719dd818acd75b7cd9ac5d49db8190fad394beb35dcae84fac20803",
@@ -497,7 +497,7 @@
   {
     "locale": "ro",
     "name": "Romanian (Rom\u00e2n\u0103)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ro.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ro.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "882c7276bb909afcebc3dddf9086ea0d8c37519ee136971cc448b1b80c51539c",
@@ -506,8 +506,8 @@
   {
     "locale": "ru",
     "name": "Russian (\u0420\u0443\u0441\u0441\u043a\u0438\u0439)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ru.dict",
-    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/emoji_ru.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ru.dict",
+    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/emoji_ru.dict",
     "version": 1,
     "sha256": "4fce87b579571b4116bb4696f4bdf2a7f1c7fcf01928c05a9e08f7503667a56d",
     "size_bytes": 2239234
@@ -515,7 +515,7 @@
   {
     "locale": "sa",
     "name": "SA",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sa.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sa.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "8539600880f2586504fdcab610fd7d4966c161a2a235b1c927fe634d34c196fa",
@@ -524,7 +524,7 @@
   {
     "locale": "sat",
     "name": "SAT",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sat.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sat.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "0266a78e525ed7decac2a005593bbe9459094340e9802647376dc8ac6a09203d",
@@ -533,7 +533,7 @@
   {
     "locale": "sd",
     "name": "SD",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sd.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sd.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "8f826109fd75c81354d950519983ced2205bf9c9844131924590e7ca8cac5746",
@@ -542,7 +542,7 @@
   {
     "locale": "sr_zz",
     "name": "SR_ZZ",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sr_zz.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sr_zz.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "61ce4cd1cd1961ab2ca2796964e4b1468eb48cb7568973c16f850348ebaedcc2",
@@ -551,7 +551,7 @@
   {
     "locale": "sr",
     "name": "Serbian (\u0421\u0440\u043f\u0441\u043a\u0438)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sr.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sr.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "dace1f700bb5335ed5c9e627a32dd02642c37f6f7fa524867786ca0496b20500",
@@ -560,7 +560,7 @@
   {
     "locale": "sk",
     "name": "Slovak (Sloven\u010dina)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sk.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sk.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "a955a81ecf7cc1267484cdecc53e5f9092c080d36a16d7d335434bf59d976627",
@@ -569,7 +569,7 @@
   {
     "locale": "sl",
     "name": "Slovenian (Sloven\u0161\u010dina)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sl.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sl.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "d779d40bee274be2a5596e6df7882ac4685327c360810000ab5b900c6a79fe32",
@@ -578,7 +578,7 @@
   {
     "locale": "es",
     "name": "Spanish (Espa\u00f1ol)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_es.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_es.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "44a048bdb352b7b3f3d07a86ad1fb1692052b5a7838a57bc39caaae6181fcbad",
@@ -587,7 +587,7 @@
   {
     "locale": "sv",
     "name": "Swedish (Svenska)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_sv.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_sv.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "fd4ff64e40d0c7cd34914f473090b21c266e0ab9631b04a96e799fbe4879a5e4",
@@ -596,7 +596,7 @@
   {
     "locale": "tcy",
     "name": "TCY",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_tcy.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_tcy.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "df331ac2278a8c83507457eb71ef4e71c9c3ed0b9540f9786425401a38f739f1",
@@ -605,7 +605,7 @@
   {
     "locale": "tok",
     "name": "TOK",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_tok.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_tok.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "d7b78b2eb4ee6a103acbd96b1cd1f20a87bd20f7c021ca2b069ca32d424282b2",
@@ -614,7 +614,7 @@
   {
     "locale": "tr2",
     "name": "TR2",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_tr2.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_tr2.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "772d24cb4841d9f9c4d3196e4d35dd18ce5b05485ce4ab996e06165e8495d11c",
@@ -623,7 +623,7 @@
   {
     "locale": "ta",
     "name": "Tamil (\u0ba4\u0bae\u0bbf\u0bb4\u0bcd)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ta.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ta.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "e5d70df2a2b1cde9ffce60d7cad28316864c01dd9123606c4ec79e5ae9a5123e",
@@ -632,7 +632,7 @@
   {
     "locale": "te",
     "name": "Telugu (\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_te.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_te.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "59e66fa3ac88783a1ad3e7db4b200c6206dfcebd459f4da30fffd895173c220c",
@@ -641,7 +641,7 @@
   {
     "locale": "th",
     "name": "Thai (\u0e44\u0e17\u0e22)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_th.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_th.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "a94696448b8258b9d087de43a67d19eb46b83f83e199afcf10bdea92a18a0e31",
@@ -650,7 +650,7 @@
   {
     "locale": "tr",
     "name": "Turkish (T\u00fcrk\u00e7e)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_tr.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_tr.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "bdd66c0873e65fb71e20f7c8dee85dd7ab9be59f627fff7521790ff8326c9f18",
@@ -659,8 +659,8 @@
   {
     "locale": "uk",
     "name": "Ukrainian (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_uk.dict",
-    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/emoji_uk.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_uk.dict",
+    "emoji_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/emoji_uk.dict",
     "version": 1,
     "sha256": "50d931a2a73acfbd5e2d69d14927981f985aefeda1067a37cf40d9d4d5b330e0",
     "size_bytes": 10694610
@@ -668,7 +668,7 @@
   {
     "locale": "ur",
     "name": "Urdu (\u0627\u0631\u062f\u0648)",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_ur.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_ur.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "11c43687913663c4f3bb5915085067358a18c9b8f0fd8759a191bd55028983c7",
@@ -677,7 +677,7 @@
   {
     "locale": "zgh",
     "name": "ZGH",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_zgh.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_zgh.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "b090d0ebaf877d292d58aeb0b3eed4fbde8c63d0ec6ef7cd9977ba2fa0212f98",
@@ -686,7 +686,7 @@
   {
     "locale": "zgh_zz",
     "name": "ZGH_ZZ",
-    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0/main_zgh_zz.dict",
+    "dict_url": "https://github.com/A-Hendo/astral-assets/releases/download/dict_v1.0.0/main_zgh_zz.dict",
     "emoji_url": null,
     "version": 1,
     "sha256": "91710c15f1877f6a9b88b25a27de724b43eeb263b3c606e1512d606149f827b6",
