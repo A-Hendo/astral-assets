@@ -1,0 +1,5079 @@
+{
+  "packs": [
+    {
+      "id": "smileys_emotion",
+      "name": "Smileys Emotion",
+      "stickers": [
+        {
+          "id": "sticker_1f600",
+          "name": "GRINNING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.png"
+        },
+        {
+          "id": "sticker_1f603",
+          "name": "GRINNING FACE WITH BIG EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.png"
+        },
+        {
+          "id": "sticker_1f604",
+          "name": "GRINNING FACE WITH SMILING EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.png"
+        },
+        {
+          "id": "sticker_1f601",
+          "name": "BEAMING FACE WITH SMILING EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.png"
+        },
+        {
+          "id": "sticker_1f606",
+          "name": "GRINNING SQUINTING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f606/512.png"
+        },
+        {
+          "id": "sticker_1f605",
+          "name": "GRINNING FACE WITH SWEAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f605/512.png"
+        },
+        {
+          "id": "sticker_1f923",
+          "name": "ROLLING ON THE FLOOR LAUGHING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f923/512.png"
+        },
+        {
+          "id": "sticker_1f602",
+          "name": "FACE WITH TEARS OF JOY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/512.png"
+        },
+        {
+          "id": "sticker_1f642",
+          "name": "SLIGHTLY SMILING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.png"
+        },
+        {
+          "id": "sticker_1fae0",
+          "name": "MELTING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.png"
+        },
+        {
+          "id": "sticker_1f609",
+          "name": "WINKING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.png"
+        },
+        {
+          "id": "sticker_1f60a",
+          "name": "SMILING FACE WITH SMILING EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.png"
+        },
+        {
+          "id": "sticker_263a",
+          "name": "SMILING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/263a/512.png"
+        },
+        {
+          "id": "sticker_1f970",
+          "name": "SMILING FACE WITH THREE HEARTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f970/512.png"
+        },
+        {
+          "id": "sticker_1f60d",
+          "name": "SMILING FACE WITH HEART-EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f60d/512.png"
+        },
+        {
+          "id": "sticker_1f929",
+          "name": "STAR-STRUCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.png"
+        },
+        {
+          "id": "sticker_1f618",
+          "name": "FACE BLOWING A KISS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f618/512.png"
+        },
+        {
+          "id": "sticker_1f617",
+          "name": "KISSING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f617/512.png"
+        },
+        {
+          "id": "sticker_1f61a",
+          "name": "KISSING FACE WITH CLOSED EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f61a/512.png"
+        },
+        {
+          "id": "sticker_1f619",
+          "name": "KISSING FACE WITH SMILING EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f619/512.png"
+        },
+        {
+          "id": "sticker_1f972",
+          "name": "SMILING FACE WITH TEAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f972/512.png"
+        },
+        {
+          "id": "sticker_1f60b",
+          "name": "FACE SAVORING FOOD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f60b/512.png"
+        },
+        {
+          "id": "sticker_1f61b",
+          "name": "FACE WITH TONGUE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f61b/512.png"
+        },
+        {
+          "id": "sticker_1f61c",
+          "name": "WINKING FACE WITH TONGUE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f61c/512.png"
+        },
+        {
+          "id": "sticker_1f92a",
+          "name": "ZANY FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.png"
+        },
+        {
+          "id": "sticker_1f61d",
+          "name": "SQUINTING FACE WITH TONGUE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f61d/512.png"
+        },
+        {
+          "id": "sticker_1f911",
+          "name": "MONEY-MOUTH FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f911/512.png"
+        },
+        {
+          "id": "sticker_1f917",
+          "name": "SMILING FACE WITH OPEN HANDS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.png"
+        },
+        {
+          "id": "sticker_1f92d",
+          "name": "FACE WITH HAND OVER MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f92d/512.png"
+        },
+        {
+          "id": "sticker_1fae2",
+          "name": "FACE WITH OPEN EYES AND HAND OVER MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae2/512.png"
+        },
+        {
+          "id": "sticker_1fae3",
+          "name": "FACE WITH PEEKING EYE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.png"
+        },
+        {
+          "id": "sticker_1f92b",
+          "name": "SHUSHING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f92b/512.png"
+        },
+        {
+          "id": "sticker_1f914",
+          "name": "THINKING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.png"
+        },
+        {
+          "id": "sticker_1fae1",
+          "name": "SALUTING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.png"
+        },
+        {
+          "id": "sticker_1f910",
+          "name": "ZIPPER-MOUTH FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f910/512.png"
+        },
+        {
+          "id": "sticker_1fae4",
+          "name": "DOTTED LINE FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae4/512.png"
+        },
+        {
+          "id": "sticker_1f928",
+          "name": "FACE WITH RAISED EYEBROW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f928/512.png"
+        },
+        {
+          "id": "sticker_1f610",
+          "name": "NEUTRAL FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f610/512.png"
+        },
+        {
+          "id": "sticker_1f611",
+          "name": "EXPRESSIONLESS FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f611/512.png"
+        },
+        {
+          "id": "sticker_1f636",
+          "name": "FACE WITHOUT MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f636/512.png"
+        },
+        {
+          "id": "sticker_1fae5",
+          "name": "FACE WITH DIAGONAL MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/512.png"
+        },
+        {
+          "id": "sticker_1f60f",
+          "name": "SMIRKING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f60f/512.png"
+        },
+        {
+          "id": "sticker_1f612",
+          "name": "UNAMUSED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f612/512.png"
+        },
+        {
+          "id": "sticker_1f644",
+          "name": "FACE WITH ROLLING EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f644/512.png"
+        },
+        {
+          "id": "sticker_1f62c",
+          "name": "GRIMACING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f62c/512.png"
+        },
+        {
+          "id": "sticker_1fae8",
+          "name": "SHAKING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae8/512.png"
+        },
+        {
+          "id": "sticker_1f925",
+          "name": "LYING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f925/512.png"
+        },
+        {
+          "id": "sticker_1f614",
+          "name": "PENSIVE FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f614/512.png"
+        },
+        {
+          "id": "sticker_1f60c",
+          "name": "RELIEVED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f60c/512.png"
+        },
+        {
+          "id": "sticker_1f62a",
+          "name": "SLEEPY FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f62a/512.png"
+        },
+        {
+          "id": "sticker_1f924",
+          "name": "DROOLING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f924/512.png"
+        },
+        {
+          "id": "sticker_1f634",
+          "name": "SLEEPING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f634/512.png"
+        },
+        {
+          "id": "sticker_1f637",
+          "name": "FACE WITH MEDICAL MASK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f637/512.png"
+        },
+        {
+          "id": "sticker_1f912",
+          "name": "FACE WITH THERMOMETER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f912/512.png"
+        },
+        {
+          "id": "sticker_1f915",
+          "name": "FACE WITH HEAD-BANDAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f915/512.png"
+        },
+        {
+          "id": "sticker_1f922",
+          "name": "NAUSEATED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f922/512.png"
+        },
+        {
+          "id": "sticker_1f92e",
+          "name": "FACE VOMITING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f92e/512.png"
+        },
+        {
+          "id": "sticker_1f927",
+          "name": "SNEEZING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f927/512.png"
+        },
+        {
+          "id": "sticker_1f975",
+          "name": "HOT FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f975/512.png"
+        },
+        {
+          "id": "sticker_1f976",
+          "name": "COLD FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f976/512.png"
+        },
+        {
+          "id": "sticker_1f974",
+          "name": "WOOZY FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f974/512.png"
+        },
+        {
+          "id": "sticker_1f635",
+          "name": "FACE WITH CROSSED-OUT EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f635/512.png"
+        },
+        {
+          "id": "sticker_1f92f",
+          "name": "EXPLODING HEAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f92f/512.png"
+        },
+        {
+          "id": "sticker_1f920",
+          "name": "COWBOY HAT FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f920/512.png"
+        },
+        {
+          "id": "sticker_1f973",
+          "name": "PARTYING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.png"
+        },
+        {
+          "id": "sticker_1f978",
+          "name": "DISGUISED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f978/512.png"
+        },
+        {
+          "id": "sticker_1f60e",
+          "name": "SMILING FACE WITH SUNGLASSES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.png"
+        },
+        {
+          "id": "sticker_1f913",
+          "name": "NERD FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.png"
+        },
+        {
+          "id": "sticker_1f9d0",
+          "name": "FACE WITH MONOCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d0/512.png"
+        },
+        {
+          "id": "sticker_1f615",
+          "name": "CONFUSED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f615/512.png"
+        },
+        {
+          "id": "sticker_1fae6",
+          "name": "BITING LIP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae6/512.png"
+        },
+        {
+          "id": "sticker_1f61f",
+          "name": "WORRIED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f61f/512.png"
+        },
+        {
+          "id": "sticker_1f641",
+          "name": "SLIGHTLY FROWNING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f641/512.png"
+        },
+        {
+          "id": "sticker_2639",
+          "name": "FROWNING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2639/512.png"
+        },
+        {
+          "id": "sticker_1f62e",
+          "name": "FACE WITH OPEN MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f62e/512.png"
+        },
+        {
+          "id": "sticker_1f62f",
+          "name": "HUSHED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f62f/512.png"
+        },
+        {
+          "id": "sticker_1f632",
+          "name": "ASTONISHED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f632/512.png"
+        },
+        {
+          "id": "sticker_1f633",
+          "name": "FLUSHED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f633/512.png"
+        },
+        {
+          "id": "sticker_1f97a",
+          "name": "PLEADING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f97a/512.png"
+        },
+        {
+          "id": "sticker_1f979",
+          "name": "FACE HOLDING BACK TEARS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.png"
+        },
+        {
+          "id": "sticker_1f626",
+          "name": "FROWNING FACE WITH OPEN MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f626/512.png"
+        },
+        {
+          "id": "sticker_1f627",
+          "name": "ANGUISHED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f627/512.png"
+        },
+        {
+          "id": "sticker_1f628",
+          "name": "FEARFUL FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f628/512.png"
+        },
+        {
+          "id": "sticker_1f630",
+          "name": "ANXIOUS FACE WITH SWEAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f630/512.png"
+        },
+        {
+          "id": "sticker_1f625",
+          "name": "SAD BUT RELIEVED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f625/512.png"
+        },
+        {
+          "id": "sticker_1f622",
+          "name": "CRYING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f622/512.png"
+        },
+        {
+          "id": "sticker_1f62d",
+          "name": "LOUDLY CRYING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f62d/512.png"
+        },
+        {
+          "id": "sticker_1f631",
+          "name": "FACE SCREAMING IN FEAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f631/512.png"
+        },
+        {
+          "id": "sticker_1f616",
+          "name": "CONFOUNDED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f616/512.png"
+        },
+        {
+          "id": "sticker_1f623",
+          "name": "PERSEVERING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f623/512.png"
+        },
+        {
+          "id": "sticker_1f61e",
+          "name": "DISAPPOINTED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f61e/512.png"
+        },
+        {
+          "id": "sticker_1f613",
+          "name": "DOWNCAST FACE WITH SWEAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f613/512.png"
+        },
+        {
+          "id": "sticker_1f629",
+          "name": "WEARY FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f629/512.png"
+        },
+        {
+          "id": "sticker_1f62b",
+          "name": "TIRED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f62b/512.png"
+        },
+        {
+          "id": "sticker_1f971",
+          "name": "YAWNING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f971/512.png"
+        },
+        {
+          "id": "sticker_1f624",
+          "name": "FACE WITH STEAM FROM NOSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f624/512.png"
+        },
+        {
+          "id": "sticker_1f621",
+          "name": "ENRAGED FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f621/512.png"
+        },
+        {
+          "id": "sticker_1f620",
+          "name": "ANGRY FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f620/512.png"
+        },
+        {
+          "id": "sticker_1f92c",
+          "name": "FACE WITH SYMBOLS ON MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f92c/512.png"
+        },
+        {
+          "id": "sticker_1f608",
+          "name": "SMILING FACE WITH HORNS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/512.png"
+        },
+        {
+          "id": "sticker_1f47f",
+          "name": "ANGRY FACE WITH HORNS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47f/512.png"
+        },
+        {
+          "id": "sticker_1f480",
+          "name": "SKULL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f480/512.png"
+        },
+        {
+          "id": "sticker_2620",
+          "name": "SKULL AND CROSSBONES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2620/512.png"
+        },
+        {
+          "id": "sticker_1f4a9",
+          "name": "PILE OF POO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a9/512.png"
+        },
+        {
+          "id": "sticker_1f921",
+          "name": "CLOWN FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f921/512.png"
+        },
+        {
+          "id": "sticker_1f479",
+          "name": "OGRE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f479/512.png"
+        },
+        {
+          "id": "sticker_1f47a",
+          "name": "GOBLIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47a/512.png"
+        },
+        {
+          "id": "sticker_1f47b",
+          "name": "GHOST",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.png"
+        },
+        {
+          "id": "sticker_1f47d",
+          "name": "ALIEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.png"
+        },
+        {
+          "id": "sticker_1f47e",
+          "name": "ALIEN MONSTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.png"
+        },
+        {
+          "id": "sticker_1f916",
+          "name": "ROBOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.png"
+        },
+        {
+          "id": "sticker_1f63a",
+          "name": "GRINNING CAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f63a/512.png"
+        },
+        {
+          "id": "sticker_1f638",
+          "name": "GRINNING CAT WITH SMILING EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f638/512.png"
+        },
+        {
+          "id": "sticker_1f639",
+          "name": "CAT WITH TEARS OF JOY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f639/512.png"
+        },
+        {
+          "id": "sticker_1f63b",
+          "name": "SMILING CAT WITH HEART-EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f63b/512.png"
+        },
+        {
+          "id": "sticker_1f63c",
+          "name": "CAT WITH WRY SMILE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f63c/512.png"
+        },
+        {
+          "id": "sticker_1f63d",
+          "name": "KISSING CAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f63d/512.png"
+        },
+        {
+          "id": "sticker_1f640",
+          "name": "WEARY CAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f640/512.png"
+        },
+        {
+          "id": "sticker_1f63f",
+          "name": "CRYING CAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f63f/512.png"
+        },
+        {
+          "id": "sticker_1f63e",
+          "name": "POUTING CAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f63e/512.png"
+        },
+        {
+          "id": "sticker_1f648",
+          "name": "SEE-NO-EVIL MONKEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f648/512.png"
+        },
+        {
+          "id": "sticker_1f649",
+          "name": "HEAR-NO-EVIL MONKEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f649/512.png"
+        },
+        {
+          "id": "sticker_1f64a",
+          "name": "SPEAK-NO-EVIL MONKEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f64a/512.png"
+        },
+        {
+          "id": "sticker_1f48c",
+          "name": "LOVE LETTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.png"
+        },
+        {
+          "id": "sticker_1f498",
+          "name": "HEART WITH ARROW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f498/512.png"
+        },
+        {
+          "id": "sticker_1f49d",
+          "name": "HEART WITH RIBBON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f49d/512.png"
+        },
+        {
+          "id": "sticker_1f496",
+          "name": "SPARKLING HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.png"
+        },
+        {
+          "id": "sticker_1f497",
+          "name": "GROWING HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.png"
+        },
+        {
+          "id": "sticker_1f493",
+          "name": "BEATING HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f493/512.png"
+        },
+        {
+          "id": "sticker_1f49e",
+          "name": "REVOLVING HEARTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f49e/512.png"
+        },
+        {
+          "id": "sticker_1f495",
+          "name": "TWO HEARTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.png"
+        },
+        {
+          "id": "sticker_1f49f",
+          "name": "HEART DECORATION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f49f/512.png"
+        },
+        {
+          "id": "sticker_2763",
+          "name": "HEART EXCLAMATION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2763/512.png"
+        },
+        {
+          "id": "sticker_1f494",
+          "name": "BROKEN HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f494/512.png"
+        },
+        {
+          "id": "sticker_2764_200d_1f525",
+          "name": "HEART ON FIRE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2764_200d_1f525/512.png"
+        },
+        {
+          "id": "sticker_2764_200d_1fa79",
+          "name": "MENDING HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2764_200d_1fa79/512.png"
+        },
+        {
+          "id": "sticker_2764",
+          "name": "RED HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2764/512.png"
+        },
+        {
+          "id": "sticker_1fa77",
+          "name": "PINK HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa77/512.png"
+        },
+        {
+          "id": "sticker_1f9e1",
+          "name": "ORANGE HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e1/512.png"
+        },
+        {
+          "id": "sticker_1f49b",
+          "name": "YELLOW HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f49b/512.png"
+        },
+        {
+          "id": "sticker_1f49a",
+          "name": "GREEN HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.png"
+        },
+        {
+          "id": "sticker_1f499",
+          "name": "BLUE HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.png"
+        },
+        {
+          "id": "sticker_1fa75",
+          "name": "LIGHT BLUE HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa75/512.png"
+        },
+        {
+          "id": "sticker_1f49c",
+          "name": "PURPLE HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f49c/512.png"
+        },
+        {
+          "id": "sticker_1f90e",
+          "name": "BROWN HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f90e/512.png"
+        },
+        {
+          "id": "sticker_1f5a4",
+          "name": "BLACK HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a4/512.png"
+        },
+        {
+          "id": "sticker_1fa76",
+          "name": "GREY HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa76/512.png"
+        },
+        {
+          "id": "sticker_1f90d",
+          "name": "WHITE HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f90d/512.png"
+        },
+        {
+          "id": "sticker_1f4af",
+          "name": "HUNDRED POINTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4af/512.png"
+        },
+        {
+          "id": "sticker_1f4a2",
+          "name": "ANGER SYMBOL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a2/512.png"
+        },
+        {
+          "id": "sticker_1f4a5",
+          "name": "COLLISION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.png"
+        },
+        {
+          "id": "sticker_1f4ab",
+          "name": "DIZZY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.png"
+        },
+        {
+          "id": "sticker_1f4a6",
+          "name": "SWEAT DROPLETS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a6/512.png"
+        },
+        {
+          "id": "sticker_1f4a8",
+          "name": "DASHING AWAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a8/512.png"
+        },
+        {
+          "id": "sticker_1f573",
+          "name": "HOLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f573/512.png"
+        },
+        {
+          "id": "sticker_1f4a3",
+          "name": "BOMB",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a3/512.png"
+        },
+        {
+          "id": "sticker_1f4ac",
+          "name": "SPEECH BALLOON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.png"
+        },
+        {
+          "id": "sticker_1f441_200d_1f5e8",
+          "name": "EYE IN SPEECH BUBBLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f441_200d_1f5e8/512.png"
+        },
+        {
+          "id": "sticker_1f4ad",
+          "name": "THOUGHT BALLOON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ad/512.png"
+        },
+        {
+          "id": "sticker_1f4a4",
+          "name": "ZZZ",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a4/512.png"
+        },
+        {
+          "id": "sticker_1f44b",
+          "name": "WAVING HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.png"
+        },
+        {
+          "id": "sticker_1f91a",
+          "name": "RAISED BACK OF HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f91a/512.png"
+        },
+        {
+          "id": "sticker_1f590",
+          "name": "HAND WITH FINGERS SPLAYED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f590/512.png"
+        },
+        {
+          "id": "sticker_270b",
+          "name": "RAISED HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/270b/512.png"
+        },
+        {
+          "id": "sticker_1f596",
+          "name": "VULCAN SALUTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f596/512.png"
+        },
+        {
+          "id": "sticker_1faf1",
+          "name": "RIGHTWARDS HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf1/512.png"
+        },
+        {
+          "id": "sticker_1faf2",
+          "name": "LEFTWARDS HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf2/512.png"
+        },
+        {
+          "id": "sticker_1faf3",
+          "name": "PALM DOWN HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf3/512.png"
+        },
+        {
+          "id": "sticker_1faf4",
+          "name": "PALM UP HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf4/512.png"
+        },
+        {
+          "id": "sticker_1faf7",
+          "name": "LEFTWARDS PUSHING HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf7/512.png"
+        },
+        {
+          "id": "sticker_1faf8",
+          "name": "RIGHTWARDS PUSHING HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf8/512.png"
+        },
+        {
+          "id": "sticker_1f44c",
+          "name": "OK HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f44c/512.png"
+        },
+        {
+          "id": "sticker_1faf0",
+          "name": "PINCHED FINGERS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf0/512.png"
+        },
+        {
+          "id": "sticker_1f90f",
+          "name": "PINCHING HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f90f/512.png"
+        },
+        {
+          "id": "sticker_270c",
+          "name": "VICTORY HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/270c/512.png"
+        },
+        {
+          "id": "sticker_1f91e",
+          "name": "CROSSED FINGERS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f91e/512.png"
+        },
+        {
+          "id": "sticker_1faf6",
+          "name": "HAND WITH INDEX FINGER AND THUMB CROSSED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf6/512.png"
+        },
+        {
+          "id": "sticker_1f91f",
+          "name": "LOVE-YOU GESTURE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f91f/512.png"
+        },
+        {
+          "id": "sticker_1f918",
+          "name": "SIGN OF THE HORNS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f918/512.png"
+        },
+        {
+          "id": "sticker_1f919",
+          "name": "CALL ME HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f919/512.png"
+        },
+        {
+          "id": "sticker_1f448",
+          "name": "BACKHAND INDEX POINTING LEFT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f448/512.png"
+        },
+        {
+          "id": "sticker_1f449",
+          "name": "BACKHAND INDEX POINTING RIGHT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f449/512.png"
+        },
+        {
+          "id": "sticker_1f446",
+          "name": "BACKHAND INDEX POINTING UP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f446/512.png"
+        },
+        {
+          "id": "sticker_1f595",
+          "name": "MIDDLE FINGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f595/512.png"
+        },
+        {
+          "id": "sticker_1f447",
+          "name": "BACKHAND INDEX POINTING DOWN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f447/512.png"
+        },
+        {
+          "id": "sticker_261d",
+          "name": "INDEX POINTING UP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/261d/512.png"
+        },
+        {
+          "id": "sticker_1faf5",
+          "name": "INDEX POINTING AT THE VIEWER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf5/512.png"
+        },
+        {
+          "id": "sticker_1f44d",
+          "name": "THUMBS UP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d/512.png"
+        },
+        {
+          "id": "sticker_1f44e",
+          "name": "THUMBS DOWN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f44e/512.png"
+        },
+        {
+          "id": "sticker_270a",
+          "name": "RAISED FIST",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/270a/512.png"
+        },
+        {
+          "id": "sticker_1f44a",
+          "name": "ONCOMING FIST",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f44a/512.png"
+        },
+        {
+          "id": "sticker_1f91b",
+          "name": "LEFT-FACING FIST",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f91b/512.png"
+        },
+        {
+          "id": "sticker_1f91c",
+          "name": "RIGHT-FACING FIST",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f91c/512.png"
+        },
+        {
+          "id": "sticker_1f44f",
+          "name": "CLAPPING HANDS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f44f/512.png"
+        },
+        {
+          "id": "sticker_1f64c",
+          "name": "RAISING HANDS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.png"
+        },
+        {
+          "id": "sticker_1faf6",
+          "name": "HAND WITH INDEX FINGER AND THUMB CROSSED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faf6/512.png"
+        },
+        {
+          "id": "sticker_1f450",
+          "name": "OPEN HANDS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f450/512.png"
+        },
+        {
+          "id": "sticker_1f932",
+          "name": "PALMS UP TOGETHER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f932/512.png"
+        },
+        {
+          "id": "sticker_1f91d",
+          "name": "HANDSHAKE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.png"
+        },
+        {
+          "id": "sticker_1f64f",
+          "name": "FOLDED HANDS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f/512.png"
+        },
+        {
+          "id": "sticker_270d",
+          "name": "WRITING HAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/270d/512.png"
+        },
+        {
+          "id": "sticker_1f485",
+          "name": "NAIL POLISH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f485/512.png"
+        },
+        {
+          "id": "sticker_1f933",
+          "name": "SELFIE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f933/512.png"
+        },
+        {
+          "id": "sticker_1f4aa",
+          "name": "FLEXED BICEPS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.png"
+        },
+        {
+          "id": "sticker_1f9be",
+          "name": "MECHANICAL ARM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.png"
+        },
+        {
+          "id": "sticker_1f9bf",
+          "name": "MECHANICAL LEG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9bf/512.png"
+        },
+        {
+          "id": "sticker_1f9b5",
+          "name": "LEG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9b5/512.png"
+        },
+        {
+          "id": "sticker_1f9b6",
+          "name": "FOOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9b6/512.png"
+        },
+        {
+          "id": "sticker_1f442",
+          "name": "EAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f442/512.png"
+        },
+        {
+          "id": "sticker_1f9bb",
+          "name": "EAR WITH HEARING AID",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9bb/512.png"
+        },
+        {
+          "id": "sticker_1f443",
+          "name": "NOSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f443/512.png"
+        },
+        {
+          "id": "sticker_1f9e0",
+          "name": "BRAIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.png"
+        },
+        {
+          "id": "sticker_1fac0",
+          "name": "ANATOMICAL HEART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fac0/512.png"
+        },
+        {
+          "id": "sticker_1fac1",
+          "name": "LUNGS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fac1/512.png"
+        },
+        {
+          "id": "sticker_1f9b7",
+          "name": "TOOTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9b7/512.png"
+        },
+        {
+          "id": "sticker_1f9b4",
+          "name": "BONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9b4/512.png"
+        },
+        {
+          "id": "sticker_1f440",
+          "name": "EYES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.png"
+        },
+        {
+          "id": "sticker_1f441",
+          "name": "EYE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f441/512.png"
+        },
+        {
+          "id": "sticker_1f445",
+          "name": "TONGUE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f445/512.png"
+        },
+        {
+          "id": "sticker_1f444",
+          "name": "MOUTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f444/512.png"
+        },
+        {
+          "id": "sticker_1fae6",
+          "name": "BITING LIP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae6/512.png"
+        },
+        {
+          "id": "sticker_1f476",
+          "name": "BABY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f476/512.png"
+        },
+        {
+          "id": "sticker_1f9d2",
+          "name": "CHILD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d2/512.png"
+        },
+        {
+          "id": "sticker_1f466",
+          "name": "BOY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f466/512.png"
+        },
+        {
+          "id": "sticker_1f467",
+          "name": "GIRL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f467/512.png"
+        },
+        {
+          "id": "sticker_1f9d1",
+          "name": "PERSON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1/512.png"
+        },
+        {
+          "id": "sticker_1f471",
+          "name": "PERSON BLOND HAIR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f471/512.png"
+        },
+        {
+          "id": "sticker_1f468",
+          "name": "MAN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f468/512.png"
+        },
+        {
+          "id": "sticker_1f9d4",
+          "name": "PERSON BEARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d4/512.png"
+        },
+        {
+          "id": "sticker_1f469",
+          "name": "WOMAN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f469/512.png"
+        },
+        {
+          "id": "sticker_1f9d3",
+          "name": "OLDER PERSON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d3/512.png"
+        },
+        {
+          "id": "sticker_1f474",
+          "name": "OLD MAN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f474/512.png"
+        },
+        {
+          "id": "sticker_1f475",
+          "name": "OLD WOMAN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f475/512.png"
+        }
+      ]
+    },
+    {
+      "id": "animals_nature",
+      "name": "Animals Nature",
+      "stickers": [
+        {
+          "id": "sticker_1f435",
+          "name": "MONKEY FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f435/512.png"
+        },
+        {
+          "id": "sticker_1f412",
+          "name": "MONKEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f412/512.png"
+        },
+        {
+          "id": "sticker_1f98d",
+          "name": "GORILLA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f98d/512.png"
+        },
+        {
+          "id": "sticker_1f9a7",
+          "name": "ORANGUTAN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a7/512.png"
+        },
+        {
+          "id": "sticker_1f436",
+          "name": "DOG FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f436/512.png"
+        },
+        {
+          "id": "sticker_1f415",
+          "name": "DOG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f415/512.png"
+        },
+        {
+          "id": "sticker_1f9ae",
+          "name": "GUIDE DOG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ae/512.png"
+        },
+        {
+          "id": "sticker_1f29f",
+          "name": "POODLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f29f/512.png"
+        },
+        {
+          "id": "sticker_1f43a",
+          "name": "WOLF",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f43a/512.png"
+        },
+        {
+          "id": "sticker_1f98a",
+          "name": "FOX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f98a/512.png"
+        },
+        {
+          "id": "sticker_1f99d",
+          "name": "RACCOON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f99d/512.png"
+        },
+        {
+          "id": "sticker_1f431",
+          "name": "CAT FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.png"
+        },
+        {
+          "id": "sticker_1f408",
+          "name": "CAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f408/512.png"
+        },
+        {
+          "id": "sticker_1f429",
+          "name": "POODLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f429/512.png"
+        },
+        {
+          "id": "sticker_1f981",
+          "name": "LION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f981/512.png"
+        },
+        {
+          "id": "sticker_1f42f",
+          "name": "TIGER FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f42f/512.png"
+        },
+        {
+          "id": "sticker_1f405",
+          "name": "TIGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f405/512.png"
+        },
+        {
+          "id": "sticker_1f406",
+          "name": "LEOPARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f406/512.png"
+        },
+        {
+          "id": "sticker_1f434",
+          "name": "HORSE FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f434/512.png"
+        },
+        {
+          "id": "sticker_1fae8",
+          "name": "SHAKING FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae8/512.png"
+        },
+        {
+          "id": "sticker_1f40e",
+          "name": "HORSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f40e/512.png"
+        },
+        {
+          "id": "sticker_1f984",
+          "name": "UNICORN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.png"
+        },
+        {
+          "id": "sticker_1f993",
+          "name": "ZEBRA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f993/512.png"
+        },
+        {
+          "id": "sticker_1f98c",
+          "name": "DEER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f98c/512.png"
+        },
+        {
+          "id": "sticker_1f9ac",
+          "name": "BISON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ac/512.png"
+        },
+        {
+          "id": "sticker_1f42e",
+          "name": "COW FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f42e/512.png"
+        },
+        {
+          "id": "sticker_1f402",
+          "name": "OX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f402/512.png"
+        },
+        {
+          "id": "sticker_1f403",
+          "name": "WATER BUFFALO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f403/512.png"
+        },
+        {
+          "id": "sticker_1f404",
+          "name": "COW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f404/512.png"
+        },
+        {
+          "id": "sticker_1f437",
+          "name": "PIG FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f437/512.png"
+        },
+        {
+          "id": "sticker_1f416",
+          "name": "PIG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f416/512.png"
+        },
+        {
+          "id": "sticker_1f417",
+          "name": "BOAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f417/512.png"
+        },
+        {
+          "id": "sticker_1f43d",
+          "name": "PIG NOSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f43d/512.png"
+        },
+        {
+          "id": "sticker_1f40f",
+          "name": "RAM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f40f/512.png"
+        },
+        {
+          "id": "sticker_1f411",
+          "name": "EWE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f411/512.png"
+        },
+        {
+          "id": "sticker_1f410",
+          "name": "GOAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f410/512.png"
+        },
+        {
+          "id": "sticker_1f42a",
+          "name": "CAMEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f42a/512.png"
+        },
+        {
+          "id": "sticker_1f42b",
+          "name": "TWO-HUMP CAMEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f42b/512.png"
+        },
+        {
+          "id": "sticker_1f999",
+          "name": "LLAMA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f999/512.png"
+        },
+        {
+          "id": "sticker_1f992",
+          "name": "GIRAFFE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f992/512.png"
+        },
+        {
+          "id": "sticker_1f418",
+          "name": "ELEPHANT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f418/512.png"
+        },
+        {
+          "id": "sticker_1f9a3",
+          "name": "MAMMOTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a3/512.png"
+        },
+        {
+          "id": "sticker_1f98f",
+          "name": "RHINOCEROS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f98f/512.png"
+        },
+        {
+          "id": "sticker_1f99b",
+          "name": "HIPPOPOTAMUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f99b/512.png"
+        },
+        {
+          "id": "sticker_1f42d",
+          "name": "MOUSE FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f42d/512.png"
+        },
+        {
+          "id": "sticker_1f401",
+          "name": "MOUSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f401/512.png"
+        },
+        {
+          "id": "sticker_1f400",
+          "name": "RAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f400/512.png"
+        },
+        {
+          "id": "sticker_1f43f",
+          "name": "CHIPMUNK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f43f/512.png"
+        },
+        {
+          "id": "sticker_1f9ab",
+          "name": "BEAVER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ab/512.png"
+        },
+        {
+          "id": "sticker_1f430",
+          "name": "RABBIT FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f430/512.png"
+        },
+        {
+          "id": "sticker_1f407",
+          "name": "RABBIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f407/512.png"
+        },
+        {
+          "id": "sticker_1f43c",
+          "name": "PANDA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f43c/512.png"
+        },
+        {
+          "id": "sticker_1f9a5",
+          "name": "SLOTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a5/512.png"
+        },
+        {
+          "id": "sticker_1f9a6",
+          "name": "OTTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a6/512.png"
+        },
+        {
+          "id": "sticker_1f9a8",
+          "name": "SKUNK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a8/512.png"
+        },
+        {
+          "id": "sticker_1f998",
+          "name": "KANGAROO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f998/512.png"
+        },
+        {
+          "id": "sticker_1f9a1",
+          "name": "BADGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a1/512.png"
+        },
+        {
+          "id": "sticker_1f43e",
+          "name": "PAW PRINTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f43e/512.png"
+        },
+        {
+          "id": "sticker_1f983",
+          "name": "TURKEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f983/512.png"
+        },
+        {
+          "id": "sticker_1f414",
+          "name": "CHICKEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f414/512.png"
+        },
+        {
+          "id": "sticker_1f413",
+          "name": "ROOSTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f413/512.png"
+        },
+        {
+          "id": "sticker_1f423",
+          "name": "HATCHING CHICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f423/512.png"
+        },
+        {
+          "id": "sticker_1f424",
+          "name": "BABY CHICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f424/512.png"
+        },
+        {
+          "id": "sticker_1f425",
+          "name": "FRONT-FACING BABY CHICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f425/512.png"
+        },
+        {
+          "id": "sticker_1f426",
+          "name": "BIRD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f426/512.png"
+        },
+        {
+          "id": "sticker_1f427",
+          "name": "PENGUIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f427/512.png"
+        },
+        {
+          "id": "sticker_1f54a",
+          "name": "DOVE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a/512.png"
+        },
+        {
+          "id": "sticker_1f985",
+          "name": "EAGLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f985/512.png"
+        },
+        {
+          "id": "sticker_1f986",
+          "name": "DUCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f986/512.png"
+        },
+        {
+          "id": "sticker_1f9a2",
+          "name": "SWAN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a2/512.png"
+        },
+        {
+          "id": "sticker_1f989",
+          "name": "OWL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.png"
+        },
+        {
+          "id": "sticker_1f9a4",
+          "name": "DODO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a4/512.png"
+        },
+        {
+          "id": "sticker_1fab6",
+          "name": "FEATHER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab6/512.png"
+        },
+        {
+          "id": "sticker_1f9a9",
+          "name": "FLAMINGO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a9/512.png"
+        },
+        {
+          "id": "sticker_1f99a",
+          "name": "PEACOCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f99a/512.png"
+        },
+        {
+          "id": "sticker_1f99c",
+          "name": "PARROT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f99c/512.png"
+        },
+        {
+          "id": "sticker_1fabf",
+          "name": "WING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fabf/512.png"
+        },
+        {
+          "id": "sticker_1f438",
+          "name": "FROG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f438/512.png"
+        },
+        {
+          "id": "sticker_1f40a",
+          "name": "CROCODILE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f40a/512.png"
+        },
+        {
+          "id": "sticker_1f422",
+          "name": "TURTLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.png"
+        },
+        {
+          "id": "sticker_1f98e",
+          "name": "LIZARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.png"
+        },
+        {
+          "id": "sticker_1f40d",
+          "name": "SNAKE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.png"
+        },
+        {
+          "id": "sticker_1f432",
+          "name": "DRAGON FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f432/512.png"
+        },
+        {
+          "id": "sticker_1f409",
+          "name": "DRAGON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.png"
+        },
+        {
+          "id": "sticker_1f995",
+          "name": "SAUROPOD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f995/512.png"
+        },
+        {
+          "id": "sticker_1f996",
+          "name": "T-REX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.png"
+        },
+        {
+          "id": "sticker_1f433",
+          "name": "SPOUTING WHALE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.png"
+        },
+        {
+          "id": "sticker_1f40b",
+          "name": "WHALE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f40b/512.png"
+        },
+        {
+          "id": "sticker_1f42c",
+          "name": "DOLPHIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.png"
+        },
+        {
+          "id": "sticker_1f9ad",
+          "name": "SEAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ad/512.png"
+        },
+        {
+          "id": "sticker_1f41f",
+          "name": "FISH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f41f/512.png"
+        },
+        {
+          "id": "sticker_1f420",
+          "name": "TROPICAL FISH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f420/512.png"
+        },
+        {
+          "id": "sticker_1f421",
+          "name": "BLOWFISH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f421/512.png"
+        },
+        {
+          "id": "sticker_1f988",
+          "name": "SHARK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f988/512.png"
+        },
+        {
+          "id": "sticker_1f419",
+          "name": "OCTOPUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f419/512.png"
+        },
+        {
+          "id": "sticker_1f41a",
+          "name": "SPIRAL SHELL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f41a/512.png"
+        },
+        {
+          "id": "sticker_1fab8",
+          "name": "CORAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab8/512.png"
+        },
+        {
+          "id": "sticker_1fabc",
+          "name": "JELLYFISH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fabc/512.png"
+        },
+        {
+          "id": "sticker_1f40c",
+          "name": "SNAIL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f40c/512.png"
+        },
+        {
+          "id": "sticker_1f98b",
+          "name": "BUTTERFLY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.png"
+        },
+        {
+          "id": "sticker_1f41b",
+          "name": "BUG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f41b/512.png"
+        },
+        {
+          "id": "sticker_1f41c",
+          "name": "ANT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f41c/512.png"
+        },
+        {
+          "id": "sticker_1f41d",
+          "name": "HONEYBEE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f41d/512.png"
+        },
+        {
+          "id": "sticker_1fab2",
+          "name": "BEETLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab2/512.png"
+        },
+        {
+          "id": "sticker_1f41e",
+          "name": "LADY BEETLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f41e/512.png"
+        },
+        {
+          "id": "sticker_1f99f",
+          "name": "MOSQUITO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f99f/512.png"
+        },
+        {
+          "id": "sticker_1fab0",
+          "name": "FLY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab0/512.png"
+        },
+        {
+          "id": "sticker_1fab1",
+          "name": "WORM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab1/512.png"
+        },
+        {
+          "id": "sticker_1f9a0",
+          "name": "MICROBE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a0/512.png"
+        },
+        {
+          "id": "sticker_1f490",
+          "name": "BOUQUET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f490/512.png"
+        },
+        {
+          "id": "sticker_1f338",
+          "name": "CHERRY BLOSSOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.png"
+        },
+        {
+          "id": "sticker_1f4ae",
+          "name": "WHITE FLOWER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ae/512.png"
+        },
+        {
+          "id": "sticker_1fab7",
+          "name": "LOTUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab7/512.png"
+        },
+        {
+          "id": "sticker_1f3f5",
+          "name": "ROSETTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f5/512.png"
+        },
+        {
+          "id": "sticker_1f339",
+          "name": "ROSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.png"
+        },
+        {
+          "id": "sticker_1f940",
+          "name": "WILTED FLOWER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f940/512.png"
+        },
+        {
+          "id": "sticker_1f33a",
+          "name": "HIBISCUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f33a/512.png"
+        },
+        {
+          "id": "sticker_1f33b",
+          "name": "SUNFLOWER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f33b/512.png"
+        },
+        {
+          "id": "sticker_1f33c",
+          "name": "BLOSSOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f33c/512.png"
+        },
+        {
+          "id": "sticker_1f337",
+          "name": "TULIP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f337/512.png"
+        },
+        {
+          "id": "sticker_1fabb",
+          "name": "HYACINTH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fabb/512.png"
+        },
+        {
+          "id": "sticker_1f331",
+          "name": "SEEDLING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.png"
+        },
+        {
+          "id": "sticker_1fab4",
+          "name": "POTTED PLANT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab4/512.png"
+        },
+        {
+          "id": "sticker_1f332",
+          "name": "EVERGREEN TREE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f332/512.png"
+        },
+        {
+          "id": "sticker_1f333",
+          "name": "DECIDUOUS TREE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f333/512.png"
+        },
+        {
+          "id": "sticker_1f334",
+          "name": "PALM TREE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f334/512.png"
+        },
+        {
+          "id": "sticker_1f335",
+          "name": "CACTUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f335/512.png"
+        },
+        {
+          "id": "sticker_1f33e",
+          "name": "SHEAF OF RICE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f33e/512.png"
+        },
+        {
+          "id": "sticker_1f33f",
+          "name": "HERB",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f33f/512.png"
+        },
+        {
+          "id": "sticker_2618",
+          "name": "SHAMROCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2618/512.png"
+        },
+        {
+          "id": "sticker_1f340",
+          "name": "FOUR LEAF CLOVER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.png"
+        },
+        {
+          "id": "sticker_1f341",
+          "name": "MAPLE LEAF",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f341/512.png"
+        },
+        {
+          "id": "sticker_1f342",
+          "name": "FALLEN LEAF",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f342/512.png"
+        },
+        {
+          "id": "sticker_1f343",
+          "name": "LEAF FLUTTERING IN WIND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.png"
+        },
+        {
+          "id": "sticker_1fab9",
+          "name": "EMPTY NEST",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab9/512.png"
+        },
+        {
+          "id": "sticker_1faba",
+          "name": "NEST WITH EGGS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faba/512.png"
+        },
+        {
+          "id": "sticker_1f344",
+          "name": "MUSHROOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f344/512.png"
+        }
+      ]
+    },
+    {
+      "id": "food_drink",
+      "name": "Food Drink",
+      "stickers": [
+        {
+          "id": "sticker_1f347",
+          "name": "GRAPES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f347/512.png"
+        },
+        {
+          "id": "sticker_1f348",
+          "name": "MELON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f348/512.png"
+        },
+        {
+          "id": "sticker_1f349",
+          "name": "WATERMELON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f349/512.png"
+        },
+        {
+          "id": "sticker_1f34a",
+          "name": "TANGERINE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f34a/512.png"
+        },
+        {
+          "id": "sticker_1f34b",
+          "name": "LEMON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f34b/512.png"
+        },
+        {
+          "id": "sticker_1f34c",
+          "name": "BANANA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f34c/512.png"
+        },
+        {
+          "id": "sticker_1f34d",
+          "name": "PINEAPPLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f34d/512.png"
+        },
+        {
+          "id": "sticker_1f96d",
+          "name": "MANGO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f96d/512.png"
+        },
+        {
+          "id": "sticker_1f34e",
+          "name": "RED APPLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f34e/512.png"
+        },
+        {
+          "id": "sticker_1f34f",
+          "name": "GREEN APPLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f34f/512.png"
+        },
+        {
+          "id": "sticker_1f350",
+          "name": "PEAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f350/512.png"
+        },
+        {
+          "id": "sticker_1f351",
+          "name": "PEACH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f351/512.png"
+        },
+        {
+          "id": "sticker_1f352",
+          "name": "CHERRIES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f352/512.png"
+        },
+        {
+          "id": "sticker_1f353",
+          "name": "STRAWBERRY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f353/512.png"
+        },
+        {
+          "id": "sticker_1fad0",
+          "name": "BLUEBERRIES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad0/512.png"
+        },
+        {
+          "id": "sticker_1f95d",
+          "name": "KIWI FRUIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f95d/512.png"
+        },
+        {
+          "id": "sticker_1f345",
+          "name": "TOMATO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f345/512.png"
+        },
+        {
+          "id": "sticker_1fad2",
+          "name": "OLIVE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad2/512.png"
+        },
+        {
+          "id": "sticker_1f965",
+          "name": "COCONUT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f965/512.png"
+        },
+        {
+          "id": "sticker_1f951",
+          "name": "AVOCADO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f951/512.png"
+        },
+        {
+          "id": "sticker_1f346",
+          "name": "EGGPLANT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f346/512.png"
+        },
+        {
+          "id": "sticker_1f954",
+          "name": "POTATO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f954/512.png"
+        },
+        {
+          "id": "sticker_1f955",
+          "name": "CARROT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f955/512.png"
+        },
+        {
+          "id": "sticker_1f33d",
+          "name": "EAR OF CORN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f33d/512.png"
+        },
+        {
+          "id": "sticker_1f336",
+          "name": "HOT PEPPER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f336/512.png"
+        },
+        {
+          "id": "sticker_1fad1",
+          "name": "BELL PEPPER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad1/512.png"
+        },
+        {
+          "id": "sticker_1f952",
+          "name": "CUCUMBER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f952/512.png"
+        },
+        {
+          "id": "sticker_1f96c",
+          "name": "LEAFY GREEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f96c/512.png"
+        },
+        {
+          "id": "sticker_1f966",
+          "name": "BROCCOLI",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f966/512.png"
+        },
+        {
+          "id": "sticker_1f9c4",
+          "name": "GARLIC",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c4/512.png"
+        },
+        {
+          "id": "sticker_1f9c5",
+          "name": "ONION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c5/512.png"
+        },
+        {
+          "id": "sticker_1f95c",
+          "name": "PEANUTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f95c/512.png"
+        },
+        {
+          "id": "sticker_1fad8",
+          "name": "BEANS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad8/512.png"
+        },
+        {
+          "id": "sticker_1f330",
+          "name": "CHESTNUT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f330/512.png"
+        },
+        {
+          "id": "sticker_1fada",
+          "name": "GINGER ROOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fada/512.png"
+        },
+        {
+          "id": "sticker_1fadb",
+          "name": "PEA POD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fadb/512.png"
+        },
+        {
+          "id": "sticker_1f35e",
+          "name": "BREAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f35e/512.png"
+        },
+        {
+          "id": "sticker_1f950",
+          "name": "CROISSANT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f950/512.png"
+        },
+        {
+          "id": "sticker_1f956",
+          "name": "BAGUETTE BREAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f956/512.png"
+        },
+        {
+          "id": "sticker_1fad3",
+          "name": "FLATBREAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad3/512.png"
+        },
+        {
+          "id": "sticker_1f968",
+          "name": "PRETZEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f968/512.png"
+        },
+        {
+          "id": "sticker_1f96f",
+          "name": "BAGEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f96f/512.png"
+        },
+        {
+          "id": "sticker_1f95e",
+          "name": "PANCAKES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f95e/512.png"
+        },
+        {
+          "id": "sticker_1f9c7",
+          "name": "WAFFLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c7/512.png"
+        },
+        {
+          "id": "sticker_1f9c0",
+          "name": "CHEESE WEDGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c0/512.png"
+        },
+        {
+          "id": "sticker_1f356",
+          "name": "MEAT ON BONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f356/512.png"
+        },
+        {
+          "id": "sticker_1f357",
+          "name": "POULTRY LEG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f357/512.png"
+        },
+        {
+          "id": "sticker_1f969",
+          "name": "CUT OF MEAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f969/512.png"
+        },
+        {
+          "id": "sticker_1f953",
+          "name": "BACON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f953/512.png"
+        },
+        {
+          "id": "sticker_1f354",
+          "name": "HAMBURGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f354/512.png"
+        },
+        {
+          "id": "sticker_1f35f",
+          "name": "FRENCH FRIES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f35f/512.png"
+        },
+        {
+          "id": "sticker_1f355",
+          "name": "PIZZA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f355/512.png"
+        },
+        {
+          "id": "sticker_1f32d",
+          "name": "HOT DOG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32d/512.png"
+        },
+        {
+          "id": "sticker_1f96a",
+          "name": "SANDWICH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f96a/512.png"
+        },
+        {
+          "id": "sticker_1f959",
+          "name": "STUFFED FLATBREAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f959/512.png"
+        },
+        {
+          "id": "sticker_1f9c6",
+          "name": "FALAFEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c6/512.png"
+        },
+        {
+          "id": "sticker_1f95a",
+          "name": "EGG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f95a/512.png"
+        },
+        {
+          "id": "sticker_1f373",
+          "name": "COOKING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f373/512.png"
+        },
+        {
+          "id": "sticker_1f958",
+          "name": "SHALLOW PAN OF FOOD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f958/512.png"
+        },
+        {
+          "id": "sticker_1f372",
+          "name": "POT OF FOOD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f372/512.png"
+        },
+        {
+          "id": "sticker_1fad5",
+          "name": "FONDUE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad5/512.png"
+        },
+        {
+          "id": "sticker_1f963",
+          "name": "BOWL WITH SPOON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f963/512.png"
+        },
+        {
+          "id": "sticker_1f957",
+          "name": "GREEN SALAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f957/512.png"
+        },
+        {
+          "id": "sticker_1f37f",
+          "name": "POPCORN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f37f/512.png"
+        },
+        {
+          "id": "sticker_1f9c8",
+          "name": "BUTTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c8/512.png"
+        },
+        {
+          "id": "sticker_1f9c2",
+          "name": "SALT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c2/512.png"
+        },
+        {
+          "id": "sticker_1f96b",
+          "name": "CANNED FOOD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f96b/512.png"
+        },
+        {
+          "id": "sticker_1f371",
+          "name": "BENTO BOX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f371/512.png"
+        },
+        {
+          "id": "sticker_1f358",
+          "name": "RICE CRACKER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f358/512.png"
+        },
+        {
+          "id": "sticker_1f359",
+          "name": "RICE BALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f359/512.png"
+        },
+        {
+          "id": "sticker_1f35a",
+          "name": "COOKED RICE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f35a/512.png"
+        },
+        {
+          "id": "sticker_1f35b",
+          "name": "CURRY RICE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f35b/512.png"
+        },
+        {
+          "id": "sticker_1f35c",
+          "name": "STEAMING BOWL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f35c/512.png"
+        },
+        {
+          "id": "sticker_1f35d",
+          "name": "SPAGHETTI",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f35d/512.png"
+        },
+        {
+          "id": "sticker_1f360",
+          "name": "ROASTED SWEET POTATO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f360/512.png"
+        },
+        {
+          "id": "sticker_1f362",
+          "name": "ODEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f362/512.png"
+        },
+        {
+          "id": "sticker_1f363",
+          "name": "SUSHI",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f363/512.png"
+        },
+        {
+          "id": "sticker_1f364",
+          "name": "FRIED SHRIMP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f364/512.png"
+        },
+        {
+          "id": "sticker_1f365",
+          "name": "FISH CAKE WITH SWIRL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f365/512.png"
+        },
+        {
+          "id": "sticker_1f96e",
+          "name": "MOON CAKE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f96e/512.png"
+        },
+        {
+          "id": "sticker_1f361",
+          "name": "DANGO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f361/512.png"
+        },
+        {
+          "id": "sticker_1f95f",
+          "name": "DUMPLING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f95f/512.png"
+        },
+        {
+          "id": "sticker_1f960",
+          "name": "FORTUNE COOKIE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f960/512.png"
+        },
+        {
+          "id": "sticker_1f961",
+          "name": "TAKEOUT BOX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f961/512.png"
+        },
+        {
+          "id": "sticker_1f980",
+          "name": "CRAB",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f980/512.png"
+        },
+        {
+          "id": "sticker_1f99e",
+          "name": "LOBSTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f99e/512.png"
+        },
+        {
+          "id": "sticker_1f990",
+          "name": "SHRIMP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f990/512.png"
+        },
+        {
+          "id": "sticker_1f991",
+          "name": "SQUID",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f991/512.png"
+        },
+        {
+          "id": "sticker_1f9aa",
+          "name": "OYSTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9aa/512.png"
+        },
+        {
+          "id": "sticker_1f366",
+          "name": "SOFT ICE CREAM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f366/512.png"
+        },
+        {
+          "id": "sticker_1f367",
+          "name": "SHAVED ICE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f367/512.png"
+        },
+        {
+          "id": "sticker_1f368",
+          "name": "ICE CREAM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f368/512.png"
+        },
+        {
+          "id": "sticker_1f369",
+          "name": "DOUGHNUT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f369/512.png"
+        },
+        {
+          "id": "sticker_1f36a",
+          "name": "COOKIE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f36a/512.png"
+        },
+        {
+          "id": "sticker_1f370",
+          "name": "SHORTCAKE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f370/512.png"
+        },
+        {
+          "id": "sticker_1f9c1",
+          "name": "CUPCAKE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c1/512.png"
+        },
+        {
+          "id": "sticker_1f967",
+          "name": "PIE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f967/512.png"
+        },
+        {
+          "id": "sticker_1f36b",
+          "name": "CHOCOLATE BAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f36b/512.png"
+        },
+        {
+          "id": "sticker_1f36c",
+          "name": "CANDY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f36c/512.png"
+        },
+        {
+          "id": "sticker_1f36d",
+          "name": "LOLLIPOP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f36d/512.png"
+        },
+        {
+          "id": "sticker_1f36e",
+          "name": "CUSTARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f36e/512.png"
+        },
+        {
+          "id": "sticker_1f36f",
+          "name": "HONEY POT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f36f/512.png"
+        },
+        {
+          "id": "sticker_1f37c",
+          "name": "BABY BOTTLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f37c/512.png"
+        },
+        {
+          "id": "sticker_1f95b",
+          "name": "GLASS OF MILK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f95b/512.png"
+        },
+        {
+          "id": "sticker_2615",
+          "name": "HOT BEVERAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.png"
+        },
+        {
+          "id": "sticker_1fad6",
+          "name": "TEAPOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad6/512.png"
+        },
+        {
+          "id": "sticker_1f375",
+          "name": "TEACUP WITHOUT HANDLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f375/512.png"
+        },
+        {
+          "id": "sticker_1f376",
+          "name": "SAKE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f376/512.png"
+        },
+        {
+          "id": "sticker_1f37e",
+          "name": "BOTTLE WITH POPPING CORK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f37e/512.png"
+        },
+        {
+          "id": "sticker_1f377",
+          "name": "WINE GLASS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f377/512.png"
+        },
+        {
+          "id": "sticker_1f378",
+          "name": "COCKTAIL GLASS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f378/512.png"
+        },
+        {
+          "id": "sticker_1f379",
+          "name": "TROPICAL DRINK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f379/512.png"
+        },
+        {
+          "id": "sticker_1f37a",
+          "name": "BEER MUG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f37a/512.png"
+        },
+        {
+          "id": "sticker_1f37b",
+          "name": "CLINKING BEER MUGS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.png"
+        },
+        {
+          "id": "sticker_1f942",
+          "name": "CLINKING GLASSES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.png"
+        },
+        {
+          "id": "sticker_1f943",
+          "name": "TUMBLER GLASS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f943/512.png"
+        },
+        {
+          "id": "sticker_1fad7",
+          "name": "POURING LIQUID",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fad7/512.png"
+        },
+        {
+          "id": "sticker_1f964",
+          "name": "CUP WITH STRAW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f964/512.png"
+        },
+        {
+          "id": "sticker_1f9cb",
+          "name": "BUBBLE TEA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9cb/512.png"
+        },
+        {
+          "id": "sticker_1f9c3",
+          "name": "BEVERAGE BOX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c3/512.png"
+        },
+        {
+          "id": "sticker_1f9c9",
+          "name": "MATE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c9/512.png"
+        },
+        {
+          "id": "sticker_1f9ca",
+          "name": "ICE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ca/512.png"
+        }
+      ]
+    },
+    {
+      "id": "activities",
+      "name": "Activities",
+      "stickers": [
+        {
+          "id": "sticker_1f383",
+          "name": "JACK-O-LANTERN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f383/512.png"
+        },
+        {
+          "id": "sticker_1f384",
+          "name": "CHRISTMAS TREE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f384/512.png"
+        },
+        {
+          "id": "sticker_1f386",
+          "name": "FIREWORKS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.png"
+        },
+        {
+          "id": "sticker_1f387",
+          "name": "SPARKLER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f387/512.png"
+        },
+        {
+          "id": "sticker_1f9e8",
+          "name": "FIRECRACKER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e8/512.png"
+        },
+        {
+          "id": "sticker_2728",
+          "name": "SPARKLES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.png"
+        },
+        {
+          "id": "sticker_1f388",
+          "name": "BALLOON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f388/512.png"
+        },
+        {
+          "id": "sticker_1f389",
+          "name": "PARTY POPPER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.png"
+        },
+        {
+          "id": "sticker_1f38a",
+          "name": "CONFETTI BALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.png"
+        },
+        {
+          "id": "sticker_1f38b",
+          "name": "TANABATA TREE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f38b/512.png"
+        },
+        {
+          "id": "sticker_1f38d",
+          "name": "PINE DECORATION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f38d/512.png"
+        },
+        {
+          "id": "sticker_1f38e",
+          "name": "JAPANESE DOLLS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f38e/512.png"
+        },
+        {
+          "id": "sticker_1f38f",
+          "name": "CARP STREAMER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f38f/512.png"
+        },
+        {
+          "id": "sticker_1f390",
+          "name": "WIND CHIME",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f390/512.png"
+        },
+        {
+          "id": "sticker_1f391",
+          "name": "MOON VIEWING CEREMONY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f391/512.png"
+        },
+        {
+          "id": "sticker_1f9e7",
+          "name": "RED ENVELOPE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e7/512.png"
+        },
+        {
+          "id": "sticker_1f380",
+          "name": "RIBBON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f380/512.png"
+        },
+        {
+          "id": "sticker_1f381",
+          "name": "WRAPPED GIFT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f381/512.png"
+        },
+        {
+          "id": "sticker_1f3ab",
+          "name": "TICKET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ab/512.png"
+        },
+        {
+          "id": "sticker_1f39f",
+          "name": "ADMISSION TICKETS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f39f/512.png"
+        },
+        {
+          "id": "sticker_1f3c6",
+          "name": "TROPHY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.png"
+        },
+        {
+          "id": "sticker_1f3c5",
+          "name": "SPORTS MEDAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c5/512.png"
+        },
+        {
+          "id": "sticker_1f947",
+          "name": "1ST PLACE MEDAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.png"
+        },
+        {
+          "id": "sticker_1f948",
+          "name": "2ND PLACE MEDAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f948/512.png"
+        },
+        {
+          "id": "sticker_1f949",
+          "name": "3RD PLACE MEDAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f949/512.png"
+        },
+        {
+          "id": "sticker_26bd",
+          "name": "SOCCER BALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.png"
+        },
+        {
+          "id": "sticker_26be",
+          "name": "BASEBALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26be/512.png"
+        },
+        {
+          "id": "sticker_1f94e",
+          "name": "SOFTBALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f94e/512.png"
+        },
+        {
+          "id": "sticker_1f3c0",
+          "name": "BASKETBALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c0/512.png"
+        },
+        {
+          "id": "sticker_1f3d0",
+          "name": "VOLLEYBALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d0/512.png"
+        },
+        {
+          "id": "sticker_1f3c8",
+          "name": "AMERICAN FOOTBALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c8/512.png"
+        },
+        {
+          "id": "sticker_1f3c9",
+          "name": "RUGBY FOOTBALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c9/512.png"
+        },
+        {
+          "id": "sticker_1f3be",
+          "name": "TENNIS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3be/512.png"
+        },
+        {
+          "id": "sticker_1f94f",
+          "name": "FLYING DISC",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f94f/512.png"
+        },
+        {
+          "id": "sticker_1f3b3",
+          "name": "BOWLING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b3/512.png"
+        },
+        {
+          "id": "sticker_1f3cf",
+          "name": "CRICKET GAME",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3cf/512.png"
+        },
+        {
+          "id": "sticker_1f3d1",
+          "name": "FIELD HOCKEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d1/512.png"
+        },
+        {
+          "id": "sticker_1f3d2",
+          "name": "ICE HOCKEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d2/512.png"
+        },
+        {
+          "id": "sticker_1f94d",
+          "name": "LACROSSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f94d/512.png"
+        },
+        {
+          "id": "sticker_1f3d3",
+          "name": "PING PONG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d3/512.png"
+        },
+        {
+          "id": "sticker_1f3f8",
+          "name": "BADMINTON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f8/512.png"
+        },
+        {
+          "id": "sticker_1f945",
+          "name": "GOAL NET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f945/512.png"
+        },
+        {
+          "id": "sticker_26f3",
+          "name": "FLAG IN HOLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26f3/512.png"
+        },
+        {
+          "id": "sticker_1f3f9",
+          "name": "BOW AND ARROW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f9/512.png"
+        },
+        {
+          "id": "sticker_1f3a3",
+          "name": "FISHING POLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a3/512.png"
+        },
+        {
+          "id": "sticker_1f93f",
+          "name": "DIVING MASK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f93f/512.png"
+        },
+        {
+          "id": "sticker_1f3bd",
+          "name": "RUNNING SHIRT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bd/512.png"
+        },
+        {
+          "id": "sticker_1f3bf",
+          "name": "SKIS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bf/512.png"
+        },
+        {
+          "id": "sticker_1f6f7",
+          "name": "SLED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f7/512.png"
+        },
+        {
+          "id": "sticker_1f94a",
+          "name": "BOXING GLOVE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f94a/512.png"
+        },
+        {
+          "id": "sticker_1f94b",
+          "name": "MARTIAL ARTS UNIFORM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f94b/512.png"
+        },
+        {
+          "id": "sticker_1f945",
+          "name": "GOAL NET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f945/512.png"
+        },
+        {
+          "id": "sticker_1f3af",
+          "name": "DIRECT HIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.png"
+        },
+        {
+          "id": "sticker_1fa80",
+          "name": "YO-YO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa80/512.png"
+        },
+        {
+          "id": "sticker_1fa81",
+          "name": "KITE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa81/512.png"
+        },
+        {
+          "id": "sticker_1f3b1",
+          "name": "POOL 8 BALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b1/512.png"
+        },
+        {
+          "id": "sticker_1f52e",
+          "name": "CRYSTAL BALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.png"
+        },
+        {
+          "id": "sticker_1fa84",
+          "name": "MAGIC WAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa84/512.png"
+        },
+        {
+          "id": "sticker_1f3ae",
+          "name": "VIDEO GAME",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.png"
+        },
+        {
+          "id": "sticker_1f579",
+          "name": "JOYSTICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f579/512.png"
+        },
+        {
+          "id": "sticker_1f3b0",
+          "name": "SLOT MACHINE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b0/512.png"
+        },
+        {
+          "id": "sticker_1f3b2",
+          "name": "GAME DIE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.png"
+        },
+        {
+          "id": "sticker_1f9e9",
+          "name": "PUZZLE PIECE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e9/512.png"
+        },
+        {
+          "id": "sticker_1f9f8",
+          "name": "TEDDY BEAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f8/512.png"
+        },
+        {
+          "id": "sticker_1fa85",
+          "name": "PIÑATA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa85/512.png"
+        },
+        {
+          "id": "sticker_1faa4",
+          "name": "MIRROR BALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa4/512.png"
+        },
+        {
+          "id": "sticker_1fa86",
+          "name": "NESTING DOLLS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa86/512.png"
+        },
+        {
+          "id": "sticker_2660",
+          "name": "SPADE SUIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2660/512.png"
+        },
+        {
+          "id": "sticker_2665",
+          "name": "HEART SUIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2665/512.png"
+        },
+        {
+          "id": "sticker_2666",
+          "name": "DIAMOND SUIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2666/512.png"
+        },
+        {
+          "id": "sticker_2663",
+          "name": "CLUB SUIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2663/512.png"
+        },
+        {
+          "id": "sticker_1f0cf",
+          "name": "JOKER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f0cf/512.png"
+        },
+        {
+          "id": "sticker_1f004",
+          "name": "MAHJONG RED DRAGON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f004/512.png"
+        },
+        {
+          "id": "sticker_1f3b4",
+          "name": "FLOWER PLAYING CARDS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b4/512.png"
+        },
+        {
+          "id": "sticker_1f3ad",
+          "name": "PERFORMING ARTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ad/512.png"
+        },
+        {
+          "id": "sticker_1f5bc",
+          "name": "FRAMED PICTURE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5bc/512.png"
+        },
+        {
+          "id": "sticker_1f3a8",
+          "name": "ARTIST PALETTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.png"
+        },
+        {
+          "id": "sticker_1f9f5",
+          "name": "THREAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f5/512.png"
+        },
+        {
+          "id": "sticker_1faa1",
+          "name": "SEWING NEEDLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa1/512.png"
+        },
+        {
+          "id": "sticker_1f9f6",
+          "name": "YARN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f6/512.png"
+        },
+        {
+          "id": "sticker_1faa2",
+          "name": "KNOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa2/512.png"
+        }
+      ]
+    },
+    {
+      "id": "travel_places",
+      "name": "Travel Places",
+      "stickers": [
+        {
+          "id": "sticker_1f30d",
+          "name": "GLOBE SHOWING EUROPE-AFRICA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.png"
+        },
+        {
+          "id": "sticker_1f30e",
+          "name": "GLOBE SHOWING AMERICAS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.png"
+        },
+        {
+          "id": "sticker_1f30f",
+          "name": "GLOBE SHOWING ASIA-AUSTRALIA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.png"
+        },
+        {
+          "id": "sticker_1f310",
+          "name": "GLOBE WITH MERIDIANS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.png"
+        },
+        {
+          "id": "sticker_1f5fa",
+          "name": "WORLD MAP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5fa/512.png"
+        },
+        {
+          "id": "sticker_1f9ed",
+          "name": "COMPASS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ed/512.png"
+        },
+        {
+          "id": "sticker_1f3d4",
+          "name": "SNOW-CAPPED MOUNTAIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d4/512.png"
+        },
+        {
+          "id": "sticker_26f0",
+          "name": "MOUNTAIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26f0/512.png"
+        },
+        {
+          "id": "sticker_1f30b",
+          "name": "VOLCANO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30b/512.png"
+        },
+        {
+          "id": "sticker_1f5fb",
+          "name": "MOUNT FUJI",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5fb/512.png"
+        },
+        {
+          "id": "sticker_1f3d5",
+          "name": "CAMPING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5/512.png"
+        },
+        {
+          "id": "sticker_1f3d6",
+          "name": "BEACH WITH UMBRELLA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d6/512.png"
+        },
+        {
+          "id": "sticker_1f3dc",
+          "name": "DESERT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3dc/512.png"
+        },
+        {
+          "id": "sticker_1f3dd",
+          "name": "DESERT ISLAND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3dd/512.png"
+        },
+        {
+          "id": "sticker_1f3de",
+          "name": "NATIONAL PARK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3de/512.png"
+        },
+        {
+          "id": "sticker_1f3df",
+          "name": "STADIUM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3df/512.png"
+        },
+        {
+          "id": "sticker_1f3db",
+          "name": "CLASSICAL BUILDING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3db/512.png"
+        },
+        {
+          "id": "sticker_1f3d7",
+          "name": "BUILDING CONSTRUCTION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d7/512.png"
+        },
+        {
+          "id": "sticker_1f9f1",
+          "name": "BRICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f1/512.png"
+        },
+        {
+          "id": "sticker_1faa8",
+          "name": "ROCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa8/512.png"
+        },
+        {
+          "id": "sticker_1fab5",
+          "name": "WOOD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fab5/512.png"
+        },
+        {
+          "id": "sticker_1f6d6",
+          "name": "HUT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d6/512.png"
+        },
+        {
+          "id": "sticker_1f3d8",
+          "name": "HOUSES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d8/512.png"
+        },
+        {
+          "id": "sticker_1f3da",
+          "name": "DERELICT HOUSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3da/512.png"
+        },
+        {
+          "id": "sticker_1f3e0",
+          "name": "HOUSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e0/512.png"
+        },
+        {
+          "id": "sticker_1f3e1",
+          "name": "HOUSE WITH GARDEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e1/512.png"
+        },
+        {
+          "id": "sticker_1f3e2",
+          "name": "OFFICE BUILDING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e2/512.png"
+        },
+        {
+          "id": "sticker_1f3e3",
+          "name": "JAPANESE POST OFFICE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e3/512.png"
+        },
+        {
+          "id": "sticker_1f3e4",
+          "name": "POST OFFICE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e4/512.png"
+        },
+        {
+          "id": "sticker_1f3e5",
+          "name": "HOSPITAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e5/512.png"
+        },
+        {
+          "id": "sticker_1f3e6",
+          "name": "BANK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e6/512.png"
+        },
+        {
+          "id": "sticker_1f3e8",
+          "name": "HOTEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e8/512.png"
+        },
+        {
+          "id": "sticker_1f3e9",
+          "name": "LOVE HOTEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e9/512.png"
+        },
+        {
+          "id": "sticker_1f3ea",
+          "name": "CONVENIENCE STORE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ea/512.png"
+        },
+        {
+          "id": "sticker_1f3eb",
+          "name": "SCHOOL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3eb/512.png"
+        },
+        {
+          "id": "sticker_1f3ec",
+          "name": "DEPARTMENT STORE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ec/512.png"
+        },
+        {
+          "id": "sticker_1f3ed",
+          "name": "FACTORY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ed/512.png"
+        },
+        {
+          "id": "sticker_1f5fc",
+          "name": "TOKYO TOWER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5fc/512.png"
+        },
+        {
+          "id": "sticker_1f5fd",
+          "name": "STATUE OF LIBERTY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5fd/512.png"
+        },
+        {
+          "id": "sticker_26ea",
+          "name": "CHURCH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26ea/512.png"
+        },
+        {
+          "id": "sticker_1f54c",
+          "name": "MOSQUE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f54c/512.png"
+        },
+        {
+          "id": "sticker_1f6d5",
+          "name": "HINDU TEMPLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d5/512.png"
+        },
+        {
+          "id": "sticker_1f54d",
+          "name": "SYNAGOGUE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f54d/512.png"
+        },
+        {
+          "id": "sticker_1f6e3",
+          "name": "MOTORWAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e3/512.png"
+        },
+        {
+          "id": "sticker_1f6e4",
+          "name": "RAILWAY TRACK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e4/512.png"
+        },
+        {
+          "id": "sticker_1f6e2",
+          "name": "OIL DRUM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e2/512.png"
+        },
+        {
+          "id": "sticker_26bd",
+          "name": "SOCCER BALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.png"
+        },
+        {
+          "id": "sticker_1f697",
+          "name": "AUTOMOBILE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f697/512.png"
+        },
+        {
+          "id": "sticker_1f695",
+          "name": "TAXI",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f695/512.png"
+        },
+        {
+          "id": "sticker_1f6fb",
+          "name": "PICKUP TRUCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6fb/512.png"
+        },
+        {
+          "id": "sticker_1f69a",
+          "name": "DELIVERY TRUCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f69a/512.png"
+        },
+        {
+          "id": "sticker_1f68c",
+          "name": "BUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f68c/512.png"
+        },
+        {
+          "id": "sticker_1f68e",
+          "name": "TROLLEYBUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f68e/512.png"
+        },
+        {
+          "id": "sticker_1f3ce",
+          "name": "RACING CAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ce/512.png"
+        },
+        {
+          "id": "sticker_1f693",
+          "name": "POLICE CAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f693/512.png"
+        },
+        {
+          "id": "sticker_1f691",
+          "name": "AMBULANCE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f691/512.png"
+        },
+        {
+          "id": "sticker_1f692",
+          "name": "FIRE ENGINE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f692/512.png"
+        },
+        {
+          "id": "sticker_1f690",
+          "name": "MINIBUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f690/512.png"
+        },
+        {
+          "id": "sticker_1f69b",
+          "name": "ARTICULATED LORRY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f69b/512.png"
+        },
+        {
+          "id": "sticker_1f69c",
+          "name": "TRACTOR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f69c/512.png"
+        },
+        {
+          "id": "sticker_1f6b2",
+          "name": "BICYCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6b2/512.png"
+        },
+        {
+          "id": "sticker_1f6f4",
+          "name": "KICK SCOOTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f4/512.png"
+        },
+        {
+          "id": "sticker_1f6f5",
+          "name": "MOTOR SCOOTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f5/512.png"
+        },
+        {
+          "id": "sticker_1f6ba",
+          "name": "WOMEN'S ROOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ba/512.png"
+        },
+        {
+          "id": "sticker_1f6f9",
+          "name": "SKATEBOARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f9/512.png"
+        },
+        {
+          "id": "sticker_1f6fc",
+          "name": "ROLLER SKATE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6fc/512.png"
+        },
+        {
+          "id": "sticker_1f68f",
+          "name": "BUS STOP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f68f/512.png"
+        },
+        {
+          "id": "sticker_1f6e3",
+          "name": "MOTORWAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e3/512.png"
+        },
+        {
+          "id": "sticker_26a1",
+          "name": "HIGH VOLTAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.png"
+        },
+        {
+          "id": "sticker_1f681",
+          "name": "HELICOPTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f681/512.png"
+        },
+        {
+          "id": "sticker_1f69f",
+          "name": "SUSPENSION RAILWAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f69f/512.png"
+        },
+        {
+          "id": "sticker_1f6a0",
+          "name": "MOUNTAIN CABLEWAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a0/512.png"
+        },
+        {
+          "id": "sticker_1f6a1",
+          "name": "AERIAL TRAMWAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a1/512.png"
+        },
+        {
+          "id": "sticker_1f6f0",
+          "name": "SATELLITE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f0/512.png"
+        },
+        {
+          "id": "sticker_1f680",
+          "name": "ROCKET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.png"
+        },
+        {
+          "id": "sticker_1f6f8",
+          "name": "FLYING SAUCER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.png"
+        },
+        {
+          "id": "sticker_1f6ce",
+          "name": "BELLHOP BELL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ce/512.png"
+        },
+        {
+          "id": "sticker_1f9f3",
+          "name": "LUGGAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f3/512.png"
+        },
+        {
+          "id": "sticker_231b",
+          "name": "HOURGLASS DONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/231b/512.png"
+        },
+        {
+          "id": "sticker_23f3",
+          "name": "HOURGLASS NOT DONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/23f3/512.png"
+        },
+        {
+          "id": "sticker_231a",
+          "name": "WATCH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/231a/512.png"
+        },
+        {
+          "id": "sticker_23f0",
+          "name": "ALARM CLOCK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/23f0/512.png"
+        },
+        {
+          "id": "sticker_1f324",
+          "name": "SUN BEHIND SMALL CLOUD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f324/512.png"
+        },
+        {
+          "id": "sticker_26c5",
+          "name": "SUN BEHIND CLOUD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26c5/512.png"
+        },
+        {
+          "id": "sticker_1f325",
+          "name": "SUN BEHIND LARGE CLOUD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f325/512.png"
+        },
+        {
+          "id": "sticker_1f326",
+          "name": "SUN BEHIND RAIN CLOUD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f326/512.png"
+        },
+        {
+          "id": "sticker_1f327",
+          "name": "CLOUD WITH RAIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f327/512.png"
+        },
+        {
+          "id": "sticker_26c8",
+          "name": "CLOUD WITH LIGHTNING AND RAIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26c8/512.png"
+        },
+        {
+          "id": "sticker_1f328",
+          "name": "CLOUD WITH SNOW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f328/512.png"
+        },
+        {
+          "id": "sticker_1f329",
+          "name": "CLOUD WITH LIGHTNING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f329/512.png"
+        },
+        {
+          "id": "sticker_1f32a",
+          "name": "TORNADO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a/512.png"
+        },
+        {
+          "id": "sticker_1f32b",
+          "name": "FOG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32b/512.png"
+        },
+        {
+          "id": "sticker_1f32c",
+          "name": "WIND FACE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32c/512.png"
+        },
+        {
+          "id": "sticker_1f300",
+          "name": "CYCLONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f300/512.png"
+        },
+        {
+          "id": "sticker_1f308",
+          "name": "RAINBOW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.png"
+        },
+        {
+          "id": "sticker_1f302",
+          "name": "CLOSED UMBRELLA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f302/512.png"
+        },
+        {
+          "id": "sticker_2602",
+          "name": "UMBRELLA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2602/512.png"
+        },
+        {
+          "id": "sticker_2614",
+          "name": "UMBRELLA WITH RAIN DROPS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2614/512.png"
+        },
+        {
+          "id": "sticker_26f1",
+          "name": "UMBRELLA ON GROUND",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26f1/512.png"
+        },
+        {
+          "id": "sticker_26a1",
+          "name": "HIGH VOLTAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.png"
+        },
+        {
+          "id": "sticker_2744",
+          "name": "SNOWFLAKE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2744/512.png"
+        },
+        {
+          "id": "sticker_2603",
+          "name": "SNOWMAN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2603/512.png"
+        },
+        {
+          "id": "sticker_26c4",
+          "name": "SNOWMAN WITHOUT SNOW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26c4/512.png"
+        },
+        {
+          "id": "sticker_2604",
+          "name": "COMET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2604/512.png"
+        },
+        {
+          "id": "sticker_1f525",
+          "name": "FIRE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.png"
+        },
+        {
+          "id": "sticker_1f4a7",
+          "name": "DROPLET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a7/512.png"
+        },
+        {
+          "id": "sticker_1f30a",
+          "name": "WATER WAVE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.png"
+        }
+      ]
+    },
+    {
+      "id": "objects",
+      "name": "Objects",
+      "stickers": [
+        {
+          "id": "sticker_1f453",
+          "name": "GLASSES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f453/512.png"
+        },
+        {
+          "id": "sticker_1f576",
+          "name": "SUNGLASSES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f576/512.png"
+        },
+        {
+          "id": "sticker_1f97d",
+          "name": "GOGGLES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f97d/512.png"
+        },
+        {
+          "id": "sticker_1f97c",
+          "name": "LAB COAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f97c/512.png"
+        },
+        {
+          "id": "sticker_1f9ba",
+          "name": "SAFETY VEST",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ba/512.png"
+        },
+        {
+          "id": "sticker_1f454",
+          "name": "NECKTIE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f454/512.png"
+        },
+        {
+          "id": "sticker_1f455",
+          "name": "T-SHIRT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f455/512.png"
+        },
+        {
+          "id": "sticker_1f456",
+          "name": "JEANS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f456/512.png"
+        },
+        {
+          "id": "sticker_1f9e3",
+          "name": "SCARF",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e3/512.png"
+        },
+        {
+          "id": "sticker_1f9e4",
+          "name": "GLOVES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e4/512.png"
+        },
+        {
+          "id": "sticker_1f9e5",
+          "name": "COAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e5/512.png"
+        },
+        {
+          "id": "sticker_1f9e6",
+          "name": "SOCKS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e6/512.png"
+        },
+        {
+          "id": "sticker_1f457",
+          "name": "DRESS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f457/512.png"
+        },
+        {
+          "id": "sticker_1f458",
+          "name": "KIMONO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f458/512.png"
+        },
+        {
+          "id": "sticker_1f97b",
+          "name": "SARI",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f97b/512.png"
+        },
+        {
+          "id": "sticker_1fa71",
+          "name": "ONE-PIECE SWIMSUIT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa71/512.png"
+        },
+        {
+          "id": "sticker_1fa72",
+          "name": "BRIEFS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa72/512.png"
+        },
+        {
+          "id": "sticker_1fa73",
+          "name": "SHORTS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa73/512.png"
+        },
+        {
+          "id": "sticker_1f459",
+          "name": "BIKINI",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f459/512.png"
+        },
+        {
+          "id": "sticker_1f45a",
+          "name": "WOMAN'S CLOTHES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f45a/512.png"
+        },
+        {
+          "id": "sticker_1fa74",
+          "name": "THONG SANDAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa74/512.png"
+        },
+        {
+          "id": "sticker_1f45b",
+          "name": "PURSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f45b/512.png"
+        },
+        {
+          "id": "sticker_1f45c",
+          "name": "HANDBAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f45c/512.png"
+        },
+        {
+          "id": "sticker_1f45d",
+          "name": "CLUTCH BAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f45d/512.png"
+        },
+        {
+          "id": "sticker_1f6cd",
+          "name": "SHOPPING BAGS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6cd/512.png"
+        },
+        {
+          "id": "sticker_1f392",
+          "name": "BACKPACK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f392/512.png"
+        },
+        {
+          "id": "sticker_1fa7a",
+          "name": "LUGGAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7a/512.png"
+        },
+        {
+          "id": "sticker_1f45e",
+          "name": "MAN'S SHOE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f45e/512.png"
+        },
+        {
+          "id": "sticker_1f45f",
+          "name": "RUNNING SHOE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f45f/512.png"
+        },
+        {
+          "id": "sticker_1f97e",
+          "name": "HIKING BOOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f97e/512.png"
+        },
+        {
+          "id": "sticker_1f97f",
+          "name": "FLAT SHOE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f97f/512.png"
+        },
+        {
+          "id": "sticker_1f460",
+          "name": "HIGH-HEELED SHOE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f460/512.png"
+        },
+        {
+          "id": "sticker_1f461",
+          "name": "WOMAN'S SANDAL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f461/512.png"
+        },
+        {
+          "id": "sticker_1fa70",
+          "name": "BALLET SHOES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa70/512.png"
+        },
+        {
+          "id": "sticker_1f462",
+          "name": "WOMAN'S BOOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f462/512.png"
+        },
+        {
+          "id": "sticker_1faae",
+          "name": "HAIR PICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faae/512.png"
+        },
+        {
+          "id": "sticker_1f451",
+          "name": "CROWN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f451/512.png"
+        },
+        {
+          "id": "sticker_1f452",
+          "name": "WOMAN'S HAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f452/512.png"
+        },
+        {
+          "id": "sticker_1f3a9",
+          "name": "TOP HAT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a9/512.png"
+        },
+        {
+          "id": "sticker_1f393",
+          "name": "GRADUATION CAP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.png"
+        },
+        {
+          "id": "sticker_1f9e2",
+          "name": "BILLED CAP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e2/512.png"
+        },
+        {
+          "id": "sticker_1fa96",
+          "name": "MILITARY HELMET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa96/512.png"
+        },
+        {
+          "id": "sticker_26d1",
+          "name": "RESCUE WORKER'S HELMET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26d1/512.png"
+        },
+        {
+          "id": "sticker_1f4ff",
+          "name": "PRAYER BEADS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ff/512.png"
+        },
+        {
+          "id": "sticker_1f484",
+          "name": "LIPSTICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f484/512.png"
+        },
+        {
+          "id": "sticker_1f48d",
+          "name": "RING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f48d/512.png"
+        },
+        {
+          "id": "sticker_1f48e",
+          "name": "GEM STONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.png"
+        },
+        {
+          "id": "sticker_1f507",
+          "name": "MUTED SPEAKER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f507/512.png"
+        },
+        {
+          "id": "sticker_1f508",
+          "name": "SPEAKER LOW VOLUME",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f508/512.png"
+        },
+        {
+          "id": "sticker_1f509",
+          "name": "SPEAKER MEDIUM VOLUME",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f509/512.png"
+        },
+        {
+          "id": "sticker_1f50a",
+          "name": "SPEAKER HIGH VOLUME",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f50a/512.png"
+        },
+        {
+          "id": "sticker_1f4e2",
+          "name": "LOUDSPEAKER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e2/512.png"
+        },
+        {
+          "id": "sticker_1f4e3",
+          "name": "MEGAPHONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e3/512.png"
+        },
+        {
+          "id": "sticker_1f4ef",
+          "name": "POSTAL HORN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ef/512.png"
+        },
+        {
+          "id": "sticker_1f514",
+          "name": "BELL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f514/512.png"
+        },
+        {
+          "id": "sticker_1f515",
+          "name": "BELL WITH SLASH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f515/512.png"
+        },
+        {
+          "id": "sticker_1f3bc",
+          "name": "MUSICAL SCORE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bc/512.png"
+        },
+        {
+          "id": "sticker_1f3b5",
+          "name": "MUSICAL NOTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b5/512.png"
+        },
+        {
+          "id": "sticker_1f3b6",
+          "name": "MUSICAL NOTES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.png"
+        },
+        {
+          "id": "sticker_1f399",
+          "name": "STUDIO MICROPHONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f399/512.png"
+        },
+        {
+          "id": "sticker_1f39a",
+          "name": "LEVEL SLIDER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f39a/512.png"
+        },
+        {
+          "id": "sticker_1f39b",
+          "name": "CONTROL KNOBS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f39b/512.png"
+        },
+        {
+          "id": "sticker_1f3a4",
+          "name": "MICROPHONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a4/512.png"
+        },
+        {
+          "id": "sticker_1f3a7",
+          "name": "HEADPHONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a7/512.png"
+        },
+        {
+          "id": "sticker_1f4fb",
+          "name": "RADIO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fb/512.png"
+        },
+        {
+          "id": "sticker_1f3b7",
+          "name": "SAXOPHONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b7/512.png"
+        },
+        {
+          "id": "sticker_1fa97",
+          "name": "ACCORDION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa97/512.png"
+        },
+        {
+          "id": "sticker_1f3b8",
+          "name": "GUITAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b8/512.png"
+        },
+        {
+          "id": "sticker_1f3b9",
+          "name": "MUSICAL KEYBOARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b9/512.png"
+        },
+        {
+          "id": "sticker_1f3ba",
+          "name": "TRUMPET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ba/512.png"
+        },
+        {
+          "id": "sticker_1f3bb",
+          "name": "VIOLIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bb/512.png"
+        },
+        {
+          "id": "sticker_1fa95",
+          "name": "BANJO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa95/512.png"
+        },
+        {
+          "id": "sticker_1f941",
+          "name": "DRUM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f941/512.png"
+        },
+        {
+          "id": "sticker_1fa98",
+          "name": "LONG DRUM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa98/512.png"
+        },
+        {
+          "id": "sticker_1fa87",
+          "name": "MARACAS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa87/512.png"
+        },
+        {
+          "id": "sticker_1fa88",
+          "name": "FLUTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa88/512.png"
+        },
+        {
+          "id": "sticker_1f4f1",
+          "name": "MOBILE PHONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f1/512.png"
+        },
+        {
+          "id": "sticker_1f4f2",
+          "name": "MOBILE PHONE WITH ARROW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f2/512.png"
+        },
+        {
+          "id": "sticker_260e",
+          "name": "TELEPHONE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/260e/512.png"
+        },
+        {
+          "id": "sticker_1f4de",
+          "name": "TELEPHONE RECEIVER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4de/512.png"
+        },
+        {
+          "id": "sticker_1f4df",
+          "name": "PAGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4df/512.png"
+        },
+        {
+          "id": "sticker_1f4e0",
+          "name": "FAX MACHINE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e0/512.png"
+        },
+        {
+          "id": "sticker_1f50b",
+          "name": "BATTERY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.png"
+        },
+        {
+          "id": "sticker_1faab",
+          "name": "LOW BATTERY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faab/512.png"
+        },
+        {
+          "id": "sticker_1f50c",
+          "name": "ELECTRIC PLUG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f50c/512.png"
+        },
+        {
+          "id": "sticker_1f4bb",
+          "name": "LAPTOP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.png"
+        },
+        {
+          "id": "sticker_1f5a5",
+          "name": "DESKTOP COMPUTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.png"
+        },
+        {
+          "id": "sticker_1f5a8",
+          "name": "PRINTER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a8/512.png"
+        },
+        {
+          "id": "sticker_2328",
+          "name": "KEYBOARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2328/512.png"
+        },
+        {
+          "id": "sticker_1f5b1",
+          "name": "COMPUTER MOUSE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5b1/512.png"
+        },
+        {
+          "id": "sticker_1f5b2",
+          "name": "TRACKBALL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5b2/512.png"
+        },
+        {
+          "id": "sticker_1f4bd",
+          "name": "COMPUTER DISK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bd/512.png"
+        },
+        {
+          "id": "sticker_1f4be",
+          "name": "FLOPPY DISK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4be/512.png"
+        },
+        {
+          "id": "sticker_1f4bf",
+          "name": "OPTICAL DISK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bf/512.png"
+        },
+        {
+          "id": "sticker_1f4c0",
+          "name": "DVD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c0/512.png"
+        },
+        {
+          "id": "sticker_1f9ee",
+          "name": "ABACUS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ee/512.png"
+        },
+        {
+          "id": "sticker_1f3a5",
+          "name": "MOVIE CAMERA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a5/512.png"
+        },
+        {
+          "id": "sticker_1f39e",
+          "name": "FILM FRAMES",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f39e/512.png"
+        },
+        {
+          "id": "sticker_1f4fd",
+          "name": "FILM PROJECTOR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fd/512.png"
+        },
+        {
+          "id": "sticker_1f3ac",
+          "name": "CLAPPER BOARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.png"
+        },
+        {
+          "id": "sticker_1f4fa",
+          "name": "TELEVISION",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fa/512.png"
+        },
+        {
+          "id": "sticker_1f4f7",
+          "name": "CAMERA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f7/512.png"
+        },
+        {
+          "id": "sticker_1f4f8",
+          "name": "CAMERA WITH FLASH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.png"
+        },
+        {
+          "id": "sticker_1f4f9",
+          "name": "VIDEO CAMERA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f9/512.png"
+        },
+        {
+          "id": "sticker_1f4fc",
+          "name": "VIDEOCASSETTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fc/512.png"
+        },
+        {
+          "id": "sticker_1f50d",
+          "name": "MAGNIFYING GLASS TILTED LEFT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f50d/512.png"
+        },
+        {
+          "id": "sticker_1f50e",
+          "name": "MAGNIFYING GLASS TILTED RIGHT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f50e/512.png"
+        },
+        {
+          "id": "sticker_1f56f",
+          "name": "CANDLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f56f/512.png"
+        },
+        {
+          "id": "sticker_1f4a1",
+          "name": "LIGHT BULB",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.png"
+        },
+        {
+          "id": "sticker_1f526",
+          "name": "FLASHLIGHT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f526/512.png"
+        },
+        {
+          "id": "sticker_1f3ee",
+          "name": "RED PAPER LANTERN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ee/512.png"
+        },
+        {
+          "id": "sticker_1fa94",
+          "name": "DIYA LAMP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa94/512.png"
+        },
+        {
+          "id": "sticker_1f4d4",
+          "name": "NOTEBOOK WITH DECORATIVE COVER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d4/512.png"
+        },
+        {
+          "id": "sticker_1f4d5",
+          "name": "CLOSED BOOK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d5/512.png"
+        },
+        {
+          "id": "sticker_1f4d6",
+          "name": "OPEN BOOK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png"
+        },
+        {
+          "id": "sticker_1f4d7",
+          "name": "GREEN BOOK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d7/512.png"
+        },
+        {
+          "id": "sticker_1f4d8",
+          "name": "BLUE BOOK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d8/512.png"
+        },
+        {
+          "id": "sticker_1f4d9",
+          "name": "ORANGE BOOK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d9/512.png"
+        },
+        {
+          "id": "sticker_1f4da",
+          "name": "BOOKS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.png"
+        },
+        {
+          "id": "sticker_1f4d3",
+          "name": "NOTEBOOK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d3/512.png"
+        },
+        {
+          "id": "sticker_1f4d2",
+          "name": "LEDGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d2/512.png"
+        },
+        {
+          "id": "sticker_1f4c3",
+          "name": "PAGE WITH CURL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c3/512.png"
+        },
+        {
+          "id": "sticker_1f4dc",
+          "name": "SCROLL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dc/512.png"
+        },
+        {
+          "id": "sticker_1f4c4",
+          "name": "PAGE FACING UP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c4/512.png"
+        },
+        {
+          "id": "sticker_1f4f0",
+          "name": "NEWSPAPER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f0/512.png"
+        },
+        {
+          "id": "sticker_1f5de",
+          "name": "ROLLED-UP NEWSPAPER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5de/512.png"
+        },
+        {
+          "id": "sticker_1f4d1",
+          "name": "BOOKMARK TABS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d1/512.png"
+        },
+        {
+          "id": "sticker_1f516",
+          "name": "BOOKMARK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f516/512.png"
+        },
+        {
+          "id": "sticker_1f3f7",
+          "name": "LABEL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f7/512.png"
+        },
+        {
+          "id": "sticker_1f4b0",
+          "name": "MONEY BAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b0/512.png"
+        },
+        {
+          "id": "sticker_1fa99",
+          "name": "COIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa99/512.png"
+        },
+        {
+          "id": "sticker_1f4b4",
+          "name": "YEN BANKNOTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b4/512.png"
+        },
+        {
+          "id": "sticker_1f4b5",
+          "name": "DOLLAR BANKNOTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b5/512.png"
+        },
+        {
+          "id": "sticker_1f4b6",
+          "name": "EURO BANKNOTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b6/512.png"
+        },
+        {
+          "id": "sticker_1f4b7",
+          "name": "POUND BANKNOTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b7/512.png"
+        },
+        {
+          "id": "sticker_1f4b8",
+          "name": "MONEY WITH WINGS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.png"
+        },
+        {
+          "id": "sticker_1f4b3",
+          "name": "CREDIT CARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b3/512.png"
+        },
+        {
+          "id": "sticker_1f9fe",
+          "name": "RECEIPT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9fe/512.png"
+        },
+        {
+          "id": "sticker_1f4b9",
+          "name": "CHART INCREASING WITH YEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b9/512.png"
+        },
+        {
+          "id": "sticker_1f4c9",
+          "name": "CHART DECREASING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c9/512.png"
+        },
+        {
+          "id": "sticker_1f4c8",
+          "name": "CHART INCREASING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.png"
+        },
+        {
+          "id": "sticker_2709",
+          "name": "ENVELOPE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2709/512.png"
+        },
+        {
+          "id": "sticker_1f4e7",
+          "name": "E-MAIL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e7/512.png"
+        },
+        {
+          "id": "sticker_1f4e8",
+          "name": "INCOMING ENVELOPE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e8/512.png"
+        },
+        {
+          "id": "sticker_1f4e9",
+          "name": "ENVELOPE WITH ARROW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e9/512.png"
+        },
+        {
+          "id": "sticker_1f4e4",
+          "name": "OUTBOX TRAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e4/512.png"
+        },
+        {
+          "id": "sticker_1f4e5",
+          "name": "INBOX TRAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e5/512.png"
+        },
+        {
+          "id": "sticker_1f4e6",
+          "name": "PACKAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e6/512.png"
+        },
+        {
+          "id": "sticker_1f4eb",
+          "name": "CLOSED MAILBOX WITH RAISED FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.png"
+        },
+        {
+          "id": "sticker_1f4ea",
+          "name": "CLOSED MAILBOX WITH LOWERED FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ea/512.png"
+        },
+        {
+          "id": "sticker_1f4ec",
+          "name": "OPEN MAILBOX WITH RAISED FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.png"
+        },
+        {
+          "id": "sticker_1f4ed",
+          "name": "OPEN MAILBOX WITH LOWERED FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ed/512.png"
+        },
+        {
+          "id": "sticker_1f4ee",
+          "name": "POSTBOX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ee/512.png"
+        },
+        {
+          "id": "sticker_1f5f3",
+          "name": "BALLOT BOX WITH BALLOT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5f3/512.png"
+        },
+        {
+          "id": "sticker_270f",
+          "name": "PENCIL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/270f/512.png"
+        },
+        {
+          "id": "sticker_2710",
+          "name": "BLACK NIB",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2710/512.png"
+        },
+        {
+          "id": "sticker_1f58b",
+          "name": "FOUNTAIN PEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f58b/512.png"
+        },
+        {
+          "id": "sticker_1f58a",
+          "name": "PEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f58a/512.png"
+        },
+        {
+          "id": "sticker_1f58c",
+          "name": "PAINTBRUSH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f58c/512.png"
+        },
+        {
+          "id": "sticker_1f58d",
+          "name": "CRAYON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f58d/512.png"
+        },
+        {
+          "id": "sticker_1f4dd",
+          "name": "MEMO",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dd/512.png"
+        },
+        {
+          "id": "sticker_1f4bc",
+          "name": "BRIEFCASE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.png"
+        },
+        {
+          "id": "sticker_1f4c1",
+          "name": "FILE FOLDER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c1/512.png"
+        },
+        {
+          "id": "sticker_1f4c2",
+          "name": "OPEN FILE FOLDER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c2/512.png"
+        },
+        {
+          "id": "sticker_1f5c2",
+          "name": "CARD INDEX DIVIDERS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c2/512.png"
+        },
+        {
+          "id": "sticker_1f4c5",
+          "name": "CALENDAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c5/512.png"
+        },
+        {
+          "id": "sticker_1f4c6",
+          "name": "TEAR-OFF CALENDAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c6/512.png"
+        },
+        {
+          "id": "sticker_1f5d2",
+          "name": "SPIRAL NOTEPAD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5d2/512.png"
+        },
+        {
+          "id": "sticker_1f5d3",
+          "name": "SPIRAL CALENDAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5d3/512.png"
+        },
+        {
+          "id": "sticker_1f4c7",
+          "name": "CARD INDEX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c7/512.png"
+        },
+        {
+          "id": "sticker_1f4cb",
+          "name": "CLIPBOARD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cb/512.png"
+        },
+        {
+          "id": "sticker_1f4cc",
+          "name": "PUSHPIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cc/512.png"
+        },
+        {
+          "id": "sticker_1f4cd",
+          "name": "ROUND PUSHPIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cd/512.png"
+        },
+        {
+          "id": "sticker_1f4ce",
+          "name": "PAPERCLIP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ce/512.png"
+        },
+        {
+          "id": "sticker_1f587",
+          "name": "LINKED PAPERCLIPS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f587/512.png"
+        },
+        {
+          "id": "sticker_1f4cf",
+          "name": "STRAIGHT RULER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cf/512.png"
+        },
+        {
+          "id": "sticker_1f4d0",
+          "name": "TRIANGULAR RULER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d0/512.png"
+        },
+        {
+          "id": "sticker_2702",
+          "name": "SCISSORS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2702/512.png"
+        },
+        {
+          "id": "sticker_1f5c3",
+          "name": "CARD FILE BOX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c3/512.png"
+        },
+        {
+          "id": "sticker_1f5c4",
+          "name": "FILE CABINET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c4/512.png"
+        },
+        {
+          "id": "sticker_1f5d1",
+          "name": "WASTEBASKET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5d1/512.png"
+        },
+        {
+          "id": "sticker_1f512",
+          "name": "LOCKED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.png"
+        },
+        {
+          "id": "sticker_1f513",
+          "name": "UNLOCKED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f513/512.png"
+        },
+        {
+          "id": "sticker_1f50f",
+          "name": "LOCKED WITH PEN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f50f/512.png"
+        },
+        {
+          "id": "sticker_1f510",
+          "name": "LOCKED WITH KEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f510/512.png"
+        },
+        {
+          "id": "sticker_1f511",
+          "name": "KEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f511/512.png"
+        },
+        {
+          "id": "sticker_1f5dd",
+          "name": "OLD KEY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5dd/512.png"
+        },
+        {
+          "id": "sticker_1f528",
+          "name": "HAMMER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f528/512.png"
+        },
+        {
+          "id": "sticker_1fa93",
+          "name": "AXE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa93/512.png"
+        },
+        {
+          "id": "sticker_26cf",
+          "name": "PICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26cf/512.png"
+        },
+        {
+          "id": "sticker_2692",
+          "name": "HAMMER AND PICK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2692/512.png"
+        },
+        {
+          "id": "sticker_1f6e0",
+          "name": "HAMMER AND WRENCH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.png"
+        },
+        {
+          "id": "sticker_1f5e1",
+          "name": "DAGGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5e1/512.png"
+        },
+        {
+          "id": "sticker_2694",
+          "name": "CROSSED SWORDS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2694/512.png"
+        },
+        {
+          "id": "sticker_1f4a3",
+          "name": "BOMB",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a3/512.png"
+        },
+        {
+          "id": "sticker_1fa83",
+          "name": "BOOMERANG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa83/512.png"
+        },
+        {
+          "id": "sticker_1f3f9",
+          "name": "BOW AND ARROW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f9/512.png"
+        },
+        {
+          "id": "sticker_1f6e1",
+          "name": "SHIELD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1/512.png"
+        },
+        {
+          "id": "sticker_1fa9a",
+          "name": "CARPENTRY SAW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa9a/512.png"
+        },
+        {
+          "id": "sticker_1f527",
+          "name": "WRENCH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.png"
+        },
+        {
+          "id": "sticker_1fa9b",
+          "name": "SCREWDRIVER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa9b/512.png"
+        },
+        {
+          "id": "sticker_1f529",
+          "name": "NUT AND BOLT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f529/512.png"
+        },
+        {
+          "id": "sticker_2699",
+          "name": "GEAR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2699/512.png"
+        },
+        {
+          "id": "sticker_1f5dc",
+          "name": "CLAMP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f5dc/512.png"
+        },
+        {
+          "id": "sticker_2696",
+          "name": "BALANCE SCALE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2696/512.png"
+        },
+        {
+          "id": "sticker_1f9af",
+          "name": "WHITE CANE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9af/512.png"
+        },
+        {
+          "id": "sticker_1f517",
+          "name": "LINK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f517/512.png"
+        },
+        {
+          "id": "sticker_26d3",
+          "name": "CHAINS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26d3/512.png"
+        },
+        {
+          "id": "sticker_1fa9d",
+          "name": "HOOK",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa9d/512.png"
+        },
+        {
+          "id": "sticker_1f9f0",
+          "name": "TOOLBOX",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f0/512.png"
+        },
+        {
+          "id": "sticker_1f9f2",
+          "name": "MAGNET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f2/512.png"
+        },
+        {
+          "id": "sticker_1fa9c",
+          "name": "LADDER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa9c/512.png"
+        },
+        {
+          "id": "sticker_2697",
+          "name": "ALEMBIC",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2697/512.png"
+        },
+        {
+          "id": "sticker_1f9ea",
+          "name": "TEST TUBE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ea/512.png"
+        },
+        {
+          "id": "sticker_1f9eb",
+          "name": "PETRI DISH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9eb/512.png"
+        },
+        {
+          "id": "sticker_1f9ec",
+          "name": "DNA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ec/512.png"
+        },
+        {
+          "id": "sticker_1f52c",
+          "name": "MICROSCOPE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.png"
+        },
+        {
+          "id": "sticker_1f52d",
+          "name": "TELESCOPE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.png"
+        },
+        {
+          "id": "sticker_1f4e1",
+          "name": "SATELLITE ANTENNA",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.png"
+        },
+        {
+          "id": "sticker_1f489",
+          "name": "SYRINGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f489/512.png"
+        },
+        {
+          "id": "sticker_1fa78",
+          "name": "DROP OF BLOOD",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa78/512.png"
+        },
+        {
+          "id": "sticker_1f48a",
+          "name": "PILL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f48a/512.png"
+        },
+        {
+          "id": "sticker_1fa79",
+          "name": "ADHESIVE BANDAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa79/512.png"
+        },
+        {
+          "id": "sticker_1fa7c",
+          "name": "CRUTCH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7c/512.png"
+        },
+        {
+          "id": "sticker_1fa7a",
+          "name": "STETHOSCOPE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7a/512.png"
+        },
+        {
+          "id": "sticker_1fa7b",
+          "name": "X-RAY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7b/512.png"
+        },
+        {
+          "id": "sticker_1f6aa",
+          "name": "DOOR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6aa/512.png"
+        },
+        {
+          "id": "sticker_1f6d7",
+          "name": "ELEVATOR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d7/512.png"
+        },
+        {
+          "id": "sticker_1fa9f",
+          "name": "MIRROR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa9f/512.png"
+        },
+        {
+          "id": "sticker_1fa9e",
+          "name": "WINDOW",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa9e/512.png"
+        },
+        {
+          "id": "sticker_1f6cf",
+          "name": "BED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6cf/512.png"
+        },
+        {
+          "id": "sticker_1f6cb",
+          "name": "COUCH AND LAMP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6cb/512.png"
+        },
+        {
+          "id": "sticker_1fa91",
+          "name": "CHAIR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa91/512.png"
+        },
+        {
+          "id": "sticker_1f6bd",
+          "name": "TOILET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6bd/512.png"
+        },
+        {
+          "id": "sticker_1faa0",
+          "name": "PLUNGER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa0/512.png"
+        },
+        {
+          "id": "sticker_1f6bf",
+          "name": "SHOWER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6bf/512.png"
+        },
+        {
+          "id": "sticker_1f6c1",
+          "name": "BATHTUB",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6c1/512.png"
+        },
+        {
+          "id": "sticker_1faa4",
+          "name": "MOUSE TRAP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa4/512.png"
+        },
+        {
+          "id": "sticker_1fa92",
+          "name": "RAZOR",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1fa92/512.png"
+        },
+        {
+          "id": "sticker_1f9f4",
+          "name": "LOTION BOTTLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f4/512.png"
+        },
+        {
+          "id": "sticker_1f9f7",
+          "name": "SAFETY PIN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f7/512.png"
+        },
+        {
+          "id": "sticker_1f9f9",
+          "name": "BROOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f9/512.png"
+        },
+        {
+          "id": "sticker_1f9fa",
+          "name": "BASKET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9fa/512.png"
+        },
+        {
+          "id": "sticker_1f9fb",
+          "name": "ROLL OF PAPER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9fb/512.png"
+        },
+        {
+          "id": "sticker_1faa3",
+          "name": "BUCKET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa3/512.png"
+        },
+        {
+          "id": "sticker_1f9fc",
+          "name": "SOAP",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9fc/512.png"
+        },
+        {
+          "id": "sticker_1faa5",
+          "name": "TOOTHBRUSH",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1faa5/512.png"
+        },
+        {
+          "id": "sticker_1f9fd",
+          "name": "SPONGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9fd/512.png"
+        },
+        {
+          "id": "sticker_1f9ef",
+          "name": "FIRE EXTINGUISHER",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ef/512.png"
+        },
+        {
+          "id": "sticker_1f6d2",
+          "name": "SHOPPING CART",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d2/512.png"
+        },
+        {
+          "id": "sticker_1f6a8",
+          "name": "POLICE CAR LIGHT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a8/512.png"
+        },
+        {
+          "id": "sticker_1f6a5",
+          "name": "TRAFFIC LIGHT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a5/512.png"
+        },
+        {
+          "id": "sticker_1f6a6",
+          "name": "VERTICAL TRAFFIC LIGHT",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a6/512.png"
+        },
+        {
+          "id": "sticker_1f6d1",
+          "name": "STOP SIGN",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d1/512.png"
+        },
+        {
+          "id": "sticker_26a0",
+          "name": "WARNING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26a0/512.png"
+        }
+      ]
+    },
+    {
+      "id": "symbols",
+      "name": "Symbols",
+      "stickers": [
+        {
+          "id": "sticker_1f6b9",
+          "name": "MEN'S ROOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6b9/512.png"
+        },
+        {
+          "id": "sticker_1f6ba",
+          "name": "WOMEN'S ROOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ba/512.png"
+        },
+        {
+          "id": "sticker_1f6bb",
+          "name": "RESTROOM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6bb/512.png"
+        },
+        {
+          "id": "sticker_1f6bc",
+          "name": "BABY SYMBOL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6bc/512.png"
+        },
+        {
+          "id": "sticker_1f6be",
+          "name": "WATER CLOSET",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6be/512.png"
+        },
+        {
+          "id": "sticker_1f6c2",
+          "name": "PASSPORT CONTROL",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6c2/512.png"
+        },
+        {
+          "id": "sticker_1f6c3",
+          "name": "CUSTOMS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6c3/512.png"
+        },
+        {
+          "id": "sticker_1f6c4",
+          "name": "BAGGAGE CLAIM",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6c4/512.png"
+        },
+        {
+          "id": "sticker_1f6c5",
+          "name": "LEFT LUGGAGE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6c5/512.png"
+        },
+        {
+          "id": "sticker_26a0",
+          "name": "WARNING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26a0/512.png"
+        },
+        {
+          "id": "sticker_1f6b8",
+          "name": "CHILDREN CROSSING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6b8/512.png"
+        },
+        {
+          "id": "sticker_26d4",
+          "name": "NO ENTRY",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26d4/512.png"
+        },
+        {
+          "id": "sticker_1f6ab",
+          "name": "PROHIBITED",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ab/512.png"
+        },
+        {
+          "id": "sticker_1f6ac",
+          "name": "CIGARETTE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ac/512.png"
+        },
+        {
+          "id": "sticker_1f6ad",
+          "name": "NO SMOKING",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ad/512.png"
+        },
+        {
+          "id": "sticker_2b55",
+          "name": "HOLLOW RED CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2b55/512.png"
+        },
+        {
+          "id": "sticker_1f534",
+          "name": "RED CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f534/512.png"
+        },
+        {
+          "id": "sticker_1f7e0",
+          "name": "ORANGE CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e0/512.png"
+        },
+        {
+          "id": "sticker_1f7e1",
+          "name": "YELLOW CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e1/512.png"
+        },
+        {
+          "id": "sticker_1f7e2",
+          "name": "GREEN CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e2/512.png"
+        },
+        {
+          "id": "sticker_1f535",
+          "name": "BLUE CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f535/512.png"
+        },
+        {
+          "id": "sticker_1f7e3",
+          "name": "PURPLE CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e3/512.png"
+        },
+        {
+          "id": "sticker_1f7e4",
+          "name": "BROWN CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e4/512.png"
+        },
+        {
+          "id": "sticker_26ab",
+          "name": "BLACK CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26ab/512.png"
+        },
+        {
+          "id": "sticker_26aa",
+          "name": "WHITE CIRCLE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/26aa/512.png"
+        },
+        {
+          "id": "sticker_1f7e5",
+          "name": "RED SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e5/512.png"
+        },
+        {
+          "id": "sticker_1f7e7",
+          "name": "ORANGE SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e7/512.png"
+        },
+        {
+          "id": "sticker_1f7e8",
+          "name": "YELLOW SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e8/512.png"
+        },
+        {
+          "id": "sticker_1f7e9",
+          "name": "GREEN SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e9/512.png"
+        },
+        {
+          "id": "sticker_1f7e6",
+          "name": "BLUE SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e6/512.png"
+        },
+        {
+          "id": "sticker_1f7ea",
+          "name": "PURPLE SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7ea/512.png"
+        },
+        {
+          "id": "sticker_1f7eb",
+          "name": "BROWN SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f7eb/512.png"
+        },
+        {
+          "id": "sticker_2b1b",
+          "name": "BLACK LARGE SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2b1b/512.png"
+        },
+        {
+          "id": "sticker_2b1c",
+          "name": "WHITE LARGE SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/2b1c/512.png"
+        },
+        {
+          "id": "sticker_25fc",
+          "name": "BLACK MEDIUM SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/25fc/512.png"
+        },
+        {
+          "id": "sticker_25fb",
+          "name": "WHITE MEDIUM SQUARE",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/25fb/512.png"
+        },
+        {
+          "id": "sticker_1f532",
+          "name": "BLACK SQUARE BUTTON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f532/512.png"
+        },
+        {
+          "id": "sticker_1f533",
+          "name": "WHITE SQUARE BUTTON",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f533/512.png"
+        },
+        {
+          "id": "sticker_1f3c1",
+          "name": "CHEQUERED FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.png"
+        },
+        {
+          "id": "sticker_1f6a9",
+          "name": "TRIANGULAR FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a9/512.png"
+        },
+        {
+          "id": "sticker_1f38c",
+          "name": "CROSSED FLAGS",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f38c/512.png"
+        },
+        {
+          "id": "sticker_1f3f4",
+          "name": "BLACK FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f4/512.png"
+        },
+        {
+          "id": "sticker_1f3f3",
+          "name": "WHITE FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f3/512.png"
+        },
+        {
+          "id": "sticker_1f3f3_200d_1f308",
+          "name": "RAINBOW FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f3_200d_1f308/512.png"
+        },
+        {
+          "id": "sticker_1f3f3_200d_26a7",
+          "name": "TRANSGENDER FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f3_200d_26a7/512.png"
+        },
+        {
+          "id": "sticker_1f3f4_200d_2620",
+          "name": "PIRATE FLAG",
+          "url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f3f4_200d_2620/512.png"
+        }
+      ]
+    },
+    {
+      "id": "open_source_devs",
+      "name": "Open Source Devs",
+      "stickers": [
+        {
+          "id": "dev_berlin_js_girls",
+          "name": "BERLIN JS GIRLS",
+          "url": "https://raw.githubusercontent.com/SaraVieira/open-source-stickers/master/stickers/SaraVieira-stickers/berlin-js-girls/berlin-js-girls.png"
+        },
+        {
+          "id": "dev_sticker_unicorn_print",
+          "name": "STICKER UNICORN PRINT",
+          "url": "https://raw.githubusercontent.com/SaraVieira/open-source-stickers/master/stickers/SaraVieira-stickers/deconstructing-unicorn/sticker-unicorn-print.png"
+        },
+        {
+          "id": "dev_unicorn",
+          "name": "UNICORN",
+          "url": "https://raw.githubusercontent.com/SaraVieira/open-source-stickers/master/stickers/SaraVieira-stickers/deconstructing-unicorn/unicorn.png"
+        },
+        {
+          "id": "dev_full_steak_developer",
+          "name": "FULL STEAK DEVELOPER",
+          "url": "https://raw.githubusercontent.com/SaraVieira/open-source-stickers/master/stickers/SaraVieira-stickers/full-steak-developer/full-steak-developer.png"
+        },
+        {
+          "id": "dev_gayjs",
+          "name": "GAYJS",
+          "url": "https://raw.githubusercontent.com/SaraVieira/open-source-stickers/master/stickers/SaraVieira-stickers/gay-js/gayjs.png"
+        },
+        {
+          "id": "dev_gay_node",
+          "name": "GAY NODE",
+          "url": "https://raw.githubusercontent.com/SaraVieira/open-source-stickers/master/stickers/SaraVieira-stickers/gay-node/gay-node.png"
+        },
+        {
+          "id": "dev_iddof",
+          "name": "IDDOF",
+          "url": "https://raw.githubusercontent.com/SaraVieira/open-source-stickers/master/stickers/SaraVieira-stickers/no-deploy-friday/iddof.png"
+        }
+      ]
+    },
+    {
+      "id": "giphy_animated_reactions",
+      "name": "Giphy Animated",
+      "stickers": [
+        {
+          "id": "giphy_wave",
+          "name": "HELLO WAVE",
+          "url": "https://media.giphy.com/media/VbEC9WchxUDW5syyNV/giphy.gif"
+        },
+        {
+          "id": "giphy_thank_you",
+          "name": "THANK YOU CAT",
+          "url": "https://media.giphy.com/media/KJ1f5iK3315C0/giphy.gif"
+        },
+        {
+          "id": "giphy_coding",
+          "name": "DEVELOPER CODING",
+          "url": "https://media.giphy.com/media/WTmyWkBdfcKLbgvmvM/giphy.gif"
+        },
+        {
+          "id": "giphy_yes",
+          "name": "YES MINION",
+          "url": "https://media.giphy.com/media/l41Yfyk5eeM2fFGKs/giphy.gif"
+        },
+        {
+          "id": "giphy_thumbs_up",
+          "name": "DOG THUMBS UP",
+          "url": "https://media.giphy.com/media/3o7abKhOpu0NXS3HBS/giphy.gif"
+        },
+        {
+          "id": "giphy_mind_blown",
+          "name": "MIND BLOWN",
+          "url": "https://media.giphy.com/media/xT0xeJpD8e4DYnMGsw/giphy.gif"
+        },
+        {
+          "id": "giphy_pikachu",
+          "name": "PIKACHU DANCE",
+          "url": "https://media.giphy.com/media/12FQb1XWw3yQiI/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": "openmoji_tech",
+      "name": "OpenMoji Tech",
+      "stickers": [
+        {
+          "id": "openmoji_laptop",
+          "name": "LAPTOP",
+          "url": "https://openmoji.org/data/color/png/512/1F4BB.png"
+        },
+        {
+          "id": "openmoji_floppy",
+          "name": "FLOPPY DISK",
+          "url": "https://openmoji.org/data/color/png/512/1F4BE.png"
+        },
+        {
+          "id": "openmoji_keyboard",
+          "name": "KEYBOARD",
+          "url": "https://openmoji.org/data/color/png/512/2328.png"
+        },
+        {
+          "id": "openmoji_mobile",
+          "name": "SMARTPHONE",
+          "url": "https://openmoji.org/data/color/png/512/1F4F1.png"
+        },
+        {
+          "id": "openmoji_desktop",
+          "name": "DESKTOP PC",
+          "url": "https://openmoji.org/data/color/png/512/1F5A5.png"
+        },
+        {
+          "id": "openmoji_printer",
+          "name": "PRINTER",
+          "url": "https://openmoji.org/data/color/png/512/1F5A8.png"
+        },
+        {
+          "id": "openmoji_mouse",
+          "name": "MOUSE",
+          "url": "https://openmoji.org/data/color/png/512/1F5B1.png"
+        },
+        {
+          "id": "openmoji_gamepad",
+          "name": "GAME CONTROLLER",
+          "url": "https://openmoji.org/data/color/png/512/1F3AE.png"
+        }
+      ]
+    }
+  ]
+}
