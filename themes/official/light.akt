@@ -1,0 +1,24 @@
+{
+  "name": "Light",
+  "colors": {
+    "keyboardBackground": "#FFF2F2F7",
+    "toolbarBackground": "#FFE5E5EA",
+    "keyBackground": "#FFFFFFFF",
+    "keyBorder": "#1A000000",
+    "keyText": "#FF000000",
+    "keySubText": "#99000000",
+    "accentColor": "#FF007AFF",
+    "accentBg": "#22007AFF",
+    "popupBackground": "#FFFFFFFF",
+    "keyHint": "#99000000"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

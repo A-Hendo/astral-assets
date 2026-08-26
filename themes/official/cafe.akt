@@ -1,0 +1,24 @@
+{
+  "name": "Cafe",
+  "colors": {
+    "keyboardBackground": "#FF2B1F1D",
+    "toolbarBackground": "#FF3E2D2B",
+    "keyBackground": "#FF5C403C",
+    "keyBorder": "#FF7D5A56",
+    "keyText": "#FFF5EBE6",
+    "keySubText": "#FFD4B2A7",
+    "accentColor": "#FFF5EBE6",
+    "accentBg": "#FF8C5A3E",
+    "popupBackground": "#FF3E2D2B",
+    "keyHint": "#FFD4B2A7"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

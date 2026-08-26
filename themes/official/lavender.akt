@@ -1,0 +1,24 @@
+{
+  "name": "Lavender",
+  "colors": {
+    "keyboardBackground": "#FFE8E5F0",
+    "toolbarBackground": "#FFD6D0E6",
+    "keyBackground": "#FFF7F5FA",
+    "keyBorder": "#FFC0B5DA",
+    "keyText": "#FF4A3E72",
+    "keySubText": "#FF7A6B9B",
+    "accentColor": "#FF8A77BB",
+    "accentBg": "#228A77BB",
+    "popupBackground": "#FFF7F5FA",
+    "keyHint": "#FF7A6B9B"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

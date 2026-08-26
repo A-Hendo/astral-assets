@@ -1,0 +1,55 @@
+{
+  "name": "Matrix",
+  "colors": {
+    "keyboardBackground": "#FF0D0D0D",
+    "toolbarBackground": "#FF151515",
+    "keyBackground": "#FF1A1A1A",
+    "keyBorder": "#FF00FF00",
+    "keyText": "#FF00FF00",
+    "keySubText": "#FF003300",
+    "accentColor": "#FF00FF00",
+    "accentBg": "#2200FF00",
+    "popupBackground": "#FF1A1A1A",
+    "keyHint": "#FF003300",
+    "keyBackgroundGradient": [
+      "#1D00FF00",
+      "#0D003300"
+    ],
+    "borderGlowColor": "#00FF00"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.2,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 0,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "NEON_PULSE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

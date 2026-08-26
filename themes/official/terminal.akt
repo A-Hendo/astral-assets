@@ -1,0 +1,55 @@
+{
+  "name": "Terminal",
+  "colors": {
+    "keyboardBackground": "#FF000000",
+    "toolbarBackground": "#FF080808",
+    "keyBackground": "#FF121212",
+    "keyBorder": "#8033FF33",
+    "keyText": "#FF33FF33",
+    "keySubText": "#9933FF33",
+    "accentColor": "#FF00FF00",
+    "accentBg": "#3300FF00",
+    "popupBackground": "#FF080808",
+    "keyHint": "#9933FF33",
+    "keyBackgroundGradient": [
+      "#FF121212",
+      "#FF00FF00"
+    ],
+    "borderGlowColor": "#FF00FF00"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 0,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

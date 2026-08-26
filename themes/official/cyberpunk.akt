@@ -1,0 +1,55 @@
+{
+  "name": "Cyberpunk",
+  "colors": {
+    "keyboardBackground": "#FF120458",
+    "toolbarBackground": "#FF1A0033",
+    "keyBackground": "#33FF007F",
+    "keyBorder": "#FFFF007F",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#99FF007F",
+    "accentColor": "#FF00F0FF",
+    "accentBg": "#3300F0FF",
+    "popupBackground": "#FF1A0033",
+    "keyHint": "#99FF007F",
+    "keyBackgroundGradient": [
+      "#33FF007F",
+      "#1A00F0FF"
+    ],
+    "borderGlowColor": "#FF007FFF"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 8.0,
+    "keyBackgroundOpacity": 0.3,
+    "keyHighlightOpacity": 0.5,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 12,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "NEON_PULSE",
+      "speed": 1.5,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

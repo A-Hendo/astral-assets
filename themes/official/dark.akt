@@ -1,0 +1,24 @@
+{
+  "name": "Dark",
+  "colors": {
+    "keyboardBackground": "#FF000000",
+    "toolbarBackground": "#FF121212",
+    "keyBackground": "#FF1C1C1E",
+    "keyBorder": "#FF2C2C2E",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#998E8E93",
+    "accentColor": "#FFE5E5EA",
+    "accentBg": "#33E5E5EA",
+    "popupBackground": "#FF1C1C1E",
+    "keyHint": "#998E8E93"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

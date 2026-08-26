@@ -1,0 +1,55 @@
+{
+  "name": "Dracula",
+  "colors": {
+    "keyboardBackground": "#FF282A36",
+    "toolbarBackground": "#FF1E1F29",
+    "keyBackground": "#FF44475A",
+    "keyBorder": "#FF6272A4",
+    "keyText": "#FFF8F8F2",
+    "keySubText": "#FF8BE9FD",
+    "accentColor": "#FF282A36",
+    "accentBg": "#FFBD93F9",
+    "popupBackground": "#FF1E1F29",
+    "keyHint": "#FF8BE9FD",
+    "keyBackgroundGradient": [
+      "#FF44475A",
+      "#FFBD93F9"
+    ],
+    "borderGlowColor": "#FFBD93F9"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.25,
+    "swipeTrailWidth": 5.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 12,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

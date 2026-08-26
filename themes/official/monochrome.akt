@@ -1,0 +1,24 @@
+{
+  "name": "Monochrome",
+  "colors": {
+    "keyboardBackground": "#FF000000",
+    "toolbarBackground": "#FF000000",
+    "keyBackground": "#FFFFFFFF",
+    "keyBorder": "#FF000000",
+    "keyText": "#FF000000",
+    "keySubText": "#80000000",
+    "accentColor": "#FFFFFFFF",
+    "accentBg": "#FF2C2C2C",
+    "popupBackground": "#FFFFFFFF",
+    "keyHint": "#80000000"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

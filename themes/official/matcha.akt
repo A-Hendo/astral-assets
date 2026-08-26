@@ -1,0 +1,24 @@
+{
+  "name": "Matcha",
+  "colors": {
+    "keyboardBackground": "#FFD5E0D5",
+    "toolbarBackground": "#FFC2D1C2",
+    "keyBackground": "#FFF0F5F0",
+    "keyBorder": "#FFB0C4B0",
+    "keyText": "#FF2D3B2D",
+    "keySubText": "#FF5A735A",
+    "accentColor": "#FF4F7A54",
+    "accentBg": "#224F7A54",
+    "popupBackground": "#FFF0F5F0",
+    "keyHint": "#FF5A735A"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

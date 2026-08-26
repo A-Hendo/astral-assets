@@ -1,0 +1,55 @@
+{
+  "name": "Steampunk",
+  "colors": {
+    "keyboardBackground": "#FF2B1C10",
+    "toolbarBackground": "#FF3D2717",
+    "keyBackground": "#FF5E3C23",
+    "keyBorder": "#FFCD7F32",
+    "keyText": "#FFF4D4A4",
+    "keySubText": "#FFCD853F",
+    "accentColor": "#FFFFFFFF",
+    "accentBg": "#FF8B4513",
+    "popupBackground": "#FF3D2717",
+    "keyHint": "#FFCD853F",
+    "keyBackgroundGradient": [
+      "#FF5E3C23",
+      "#FFB87333"
+    ],
+    "borderGlowColor": "#FFB87333"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 24,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Midnight Aurora",
+  "previewImage": "midnight_aurora_preview.png",
+  "colors": {
+    "keyboardBackground": "#FF080710",
+    "toolbarBackground": "#FF0D0C1A",
+    "keyBackground": "#1A00F0FF",
+    "keyBackgroundGradient": [
+      "#1A00F0FF",
+      "#0D007FFF"
+    ],
+    "borderGlowColor": "#FF00FFFF",
+    "keyBorder": "#3300F0FF",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#9900FFFF",
+    "keyHint": "#B300FFFF",
+    "accentColor": "#FF00FFFF",
+    "accentBg": "#22FF00FF",
+    "popupBackground": "#FF0D0C1A",
+    "swipeTrail": "#FFFF00FF",
+    "swipeTrailBg": "#33FF00FF"
+  },
+  "typography": {
+    "fontFamily": "outfit"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 12,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.94
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyboardBackground": {
+      "type": "AURORA_WAVE",
+      "speed": 1.0,
+      "scale": 1.2
+    },
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "RAINBOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  }
+}

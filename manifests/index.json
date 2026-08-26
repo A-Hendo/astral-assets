@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "languages": "https://raw.githubusercontent.com/A-Hendo/astral-assets/main/manifests/languages.json",
+  "themes": "https://raw.githubusercontent.com/A-Hendo/astral-assets/main/manifests/themes.json",
+  "sounds": "https://raw.githubusercontent.com/A-Hendo/astral-assets/main/manifests/sounds.json",
+  "models": "https://raw.githubusercontent.com/A-Hendo/astral-assets/main/manifests/models.json"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Military",
+  "colors": {
+    "keyboardBackground": "#FF2D3319",
+    "toolbarBackground": "#FF3E4624",
+    "keyBackground": "#FF4E592E",
+    "keyBorder": "#FF627039",
+    "keyText": "#FFE3E8D3",
+    "keySubText": "#FFC7B198",
+    "accentColor": "#FFFFFFFF",
+    "accentBg": "#FF556B2F",
+    "popupBackground": "#FF3E4624",
+    "keyHint": "#FFC7B198",
+    "keyBackgroundGradient": [
+      "#FF4E592E",
+      "#FFD4B895"
+    ],
+    "borderGlowColor": "#FFD4B895"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 12,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

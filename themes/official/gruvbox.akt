@@ -1,0 +1,55 @@
+{
+  "name": "Gruvbox",
+  "colors": {
+    "keyboardBackground": "#FF282828",
+    "toolbarBackground": "#FF1D2021",
+    "keyBackground": "#FF3C3836",
+    "keyBorder": "#FF504945",
+    "keyText": "#FFEBDBB2",
+    "keySubText": "#FFA89984",
+    "accentColor": "#FFFE8019",
+    "accentBg": "#33FE8019",
+    "popupBackground": "#FF1D2021",
+    "keyHint": "#FFA89984",
+    "keyBackgroundGradient": [
+      "#FF3C3836",
+      "#FFFE8019"
+    ],
+    "borderGlowColor": "#FFFE8019"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 8,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

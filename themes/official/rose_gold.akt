@@ -1,0 +1,55 @@
+{
+  "name": "Rose Gold",
+  "colors": {
+    "keyboardBackground": "#FF2C2224",
+    "toolbarBackground": "#FF3A2E30",
+    "keyBackground": "#FF4E3D40",
+    "keyBorder": "#FF6E565B",
+    "keyText": "#FFFDF0F2",
+    "keySubText": "#FFE5B5BD",
+    "accentColor": "#FFE0A899",
+    "accentBg": "#33E0A899",
+    "popupBackground": "#FF3A2E30",
+    "keyHint": "#FFE5B5BD",
+    "keyBackgroundGradient": [
+      "#FF4E3D40",
+      "#FFE0A899"
+    ],
+    "borderGlowColor": "#FFE0A899"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 12,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

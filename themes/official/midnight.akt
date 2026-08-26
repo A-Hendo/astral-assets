@@ -1,0 +1,24 @@
+{
+  "name": "Midnight",
+  "colors": {
+    "keyboardBackground": "#FF0F0F1A",
+    "toolbarBackground": "#FF151525",
+    "keyBackground": "#1AFFFFFF",
+    "keyBorder": "#2BFFFFFF",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#99FFFFFF",
+    "accentColor": "#FF00FFFF",
+    "accentBg": "#3300FFFF",
+    "popupBackground": "#FF151525",
+    "keyHint": "#99FFFFFF"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

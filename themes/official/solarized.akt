@@ -1,0 +1,55 @@
+{
+  "name": "Solarized",
+  "colors": {
+    "keyboardBackground": "#FF002B36",
+    "toolbarBackground": "#FF073642",
+    "keyBackground": "#FF586E75",
+    "keyBorder": "#FF93A1A1",
+    "keyText": "#FFFDF6E3",
+    "keySubText": "#FF2AA198",
+    "accentColor": "#FFFDF6E3",
+    "accentBg": "#FF268BD2",
+    "popupBackground": "#FF073642",
+    "keyHint": "#FF2AA198",
+    "keyBackgroundGradient": [
+      "#FF586E75",
+      "#FF268BD2"
+    ],
+    "borderGlowColor": "#FF268BD2"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 8,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

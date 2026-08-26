@@ -1,0 +1,24 @@
+{
+  "name": "Carbon",
+  "colors": {
+    "keyboardBackground": "#FF151515",
+    "toolbarBackground": "#FF202020",
+    "keyBackground": "#FF2C2C2C",
+    "keyBorder": "#FF444444",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#99888888",
+    "accentColor": "#FFFF0000",
+    "accentBg": "#33FF0000",
+    "popupBackground": "#FF2C2C2C",
+    "keyHint": "#99888888"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

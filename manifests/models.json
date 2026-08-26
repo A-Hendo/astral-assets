@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "base_url": "https://github.com/A-Hendo/astral-assets/releases/download/v1.0.0",
+  "bundled_locales": [
+    "en"
+  ],
+  "cloud_locales": [
+    "ar",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "fi",
+    "fr",
+    "hu",
+    "id",
+    "it",
+    "nl",
+    "no",
+    "pl",
+    "pt",
+    "ro",
+    "ru",
+    "sk",
+    "sv",
+    "tr",
+    "uk"
+  ]
+}

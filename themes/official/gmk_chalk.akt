@@ -1,0 +1,55 @@
+{
+  "name": "Gmk Chalk",
+  "colors": {
+    "keyboardBackground": "#FF3C3F41",
+    "toolbarBackground": "#FF4C5052",
+    "keyBackground": "#FFEAEAEA",
+    "keyBorder": "#FFCCCCCC",
+    "keyText": "#FF000000",
+    "keySubText": "#FF888888",
+    "accentColor": "#FFFFFFFF",
+    "accentBg": "#FFE53935",
+    "popupBackground": "#FFEAEAEA",
+    "keyHint": "#FF888888",
+    "keyBackgroundGradient": [
+      "#FFEAEAEA",
+      "#FFE53935"
+    ],
+    "borderGlowColor": "#FFE53935"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 8,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

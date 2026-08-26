@@ -1,0 +1,55 @@
+{
+  "name": "Sunset",
+  "colors": {
+    "keyboardBackground": "#FF2B1B17",
+    "toolbarBackground": "#FF3D251E",
+    "keyBackground": "#33FF5733",
+    "keyBorder": "#FFFF5733",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#99FFC300",
+    "accentColor": "#FFFFC300",
+    "accentBg": "#33FFC300",
+    "popupBackground": "#FF3D251E",
+    "keyHint": "#99FFC300",
+    "keyBackgroundGradient": [
+      "#33FF5733",
+      "#FFFFC300"
+    ],
+    "borderGlowColor": "#FFFFC300"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 8,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

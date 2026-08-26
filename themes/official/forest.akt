@@ -1,0 +1,55 @@
+{
+  "name": "Forest",
+  "colors": {
+    "keyboardBackground": "#FF0D1F10",
+    "toolbarBackground": "#FF163219",
+    "keyBackground": "#1A4CAF50",
+    "keyBorder": "#2B4CAF50",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#9981C784",
+    "accentColor": "#FF00FF66",
+    "accentBg": "#3300FF66",
+    "popupBackground": "#FF163219",
+    "keyHint": "#9981C784",
+    "keyBackgroundGradient": [
+      "#1A4CAF50",
+      "#FF00FF66"
+    ],
+    "borderGlowColor": "#FF00FF66"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 6.0,
+    "keyBackgroundOpacity": 0.35,
+    "keyHighlightOpacity": 0.3,
+    "swipeTrailWidth": 5.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 8,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.0,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

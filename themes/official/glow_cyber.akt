@@ -1,0 +1,55 @@
+{
+  "name": "Glow Cyber",
+  "colors": {
+    "keyboardBackground": "#FF02020A",
+    "toolbarBackground": "#FF070714",
+    "keyBackground": "#FF0F0F28",
+    "keyBorder": "#FF00FFFF",
+    "keyText": "#FFFFFFFF",
+    "keySubText": "#FFE50914",
+    "accentColor": "#FFFF007F",
+    "accentBg": "#33FF007F",
+    "popupBackground": "#FF070714",
+    "keyHint": "#FFE50914",
+    "keyBackgroundGradient": [
+      "#1AFF00FF",
+      "#0D00FFFF"
+    ],
+    "borderGlowColor": "#00FFCC"
+  },
+  "style": {
+    "showKeyBorders": false,
+    "showKeyBackgrounds": true,
+    "borderGlowRadius": 9.0,
+    "keyBackgroundOpacity": 0.3,
+    "keyHighlightOpacity": 0.45,
+    "swipeTrailWidth": 4.0,
+    "swipeTrailBgWidth": 15.0,
+    "keyCornerRadius": 8,
+    "keyMargins": true
+  },
+  "transitions": {
+    "pressedEnterDuration": 40,
+    "pressedExitDuration": 150,
+    "pressedScale": 0.95
+  },
+  "haptics": {
+    "sharpness": 0.7,
+    "intensityMultiplier": 1.2
+  },
+  "shaders": {
+    "keyBackgroundPressed": {
+      "type": "TOUCH_RIPPLE",
+      "speed": 2.5,
+      "scale": 1.0
+    },
+    "swipeTrail": {
+      "type": "GLOW_TRAIL",
+      "speed": 2.0,
+      "scale": 1.0
+    }
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}

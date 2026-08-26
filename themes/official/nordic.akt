@@ -1,0 +1,24 @@
+{
+  "name": "Nordic",
+  "colors": {
+    "keyboardBackground": "#FF2E3440",
+    "toolbarBackground": "#FF242933",
+    "keyBackground": "#FF3B4252",
+    "keyBorder": "#FF4C566A",
+    "keyText": "#FFECEFF4",
+    "keySubText": "#FFD8DEE9",
+    "accentColor": "#FF88C0D0",
+    "accentBg": "#3388C0D0",
+    "popupBackground": "#FF242933",
+    "keyHint": "#FFD8DEE9"
+  },
+  "style": {
+    "keyCornerRadius": 8,
+    "showKeyBorders": true,
+    "showKeyBackgrounds": true,
+    "keyMargins": true
+  },
+  "typography": {
+    "fontFamily": "SYSTEM"
+  }
+}
