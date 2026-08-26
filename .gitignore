@@ -4,3 +4,10 @@ __pycache__/
 .DS_Store
 *.tmp
 .venv/
+
+# Binary release assets (staged locally for GitHub Release publishing)
+dictionaries/*.dict
+models/**/*.tflite
+models/**/*.model
+fonts/*.ttf
+
