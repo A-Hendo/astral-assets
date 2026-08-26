@@ -67,24 +67,29 @@ def generate_themes_manifest():
 def generate_sounds_manifest():
     sounds = []
     sounds_dir = REPO_ROOT / "sounds"
+    audio_extensions = {".wav", ".mp3", ".ogg"}
     
     for category in ["official", "community"]:
         cat_dir = sounds_dir / category
         if not cat_dir.exists():
             continue
             
-        for zip_file in sorted(cat_dir.glob("*.zip")):
-            sound_id = zip_file.stem
-            size_bytes = zip_file.stat().st_size
-            sha = sha256_file(zip_file)
+        for audio_file in sorted(cat_dir.glob("*")):
+            if audio_file.suffix.lower() not in audio_extensions or not audio_file.is_file():
+                continue
+                
+            sound_id = audio_file.stem
+            size_bytes = audio_file.stat().st_size
+            sha = sha256_file(audio_file)
             
             entry = {
                 "id": sound_id,
                 "name": sound_id.replace("_", " ").title(),
+                "filename": audio_file.name,
                 "category": category,
                 "author": "Astral Team" if category == "official" else "Community",
                 "version": 1,
-                "download_url": f"{BASE_SOUNDS_RELEASE_URL}/{zip_file.name}",
+                "download_url": f"{BASE_SOUNDS_RELEASE_URL}/{audio_file.name}",
                 "sha256": sha,
                 "size_bytes": size_bytes
             }
@@ -92,7 +97,7 @@ def generate_sounds_manifest():
             
     out_path = REPO_ROOT / "manifests" / "sounds.json"
     out_path.write_text(json.dumps(sounds, indent=2), encoding="utf-8")
-    print(f"Generated {out_path} ({len(sounds)} sound packs)")
+    print(f"Generated {out_path} ({len(sounds)} sounds)")
 
 def generate_index_manifest():
     index = {

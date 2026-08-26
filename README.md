@@ -61,12 +61,12 @@ We welcome community contributions!
    ```
 6. Open a Pull Request.
 
-### Submitting a Sound Pack (`.zip`)
-1. Package your sound effects into a `.zip` archive containing `.wav`, `.mp3`, or `.ogg` files (total pack size $\le$ 5 MB).
-2. Place your archive in `sounds/community/<pack_id>.zip`.
+### Submitting a Sound Effect (`.wav`, `.mp3`, `.ogg`)
+1. Provide a clean key-click audio file (`.wav`, `.mp3`, or `.ogg`, under 2 MB).
+2. Place your sound file in `sounds/community/<sound_id>.<ext>`.
 3. Run the sound validator:
    ```bash
-   python3 scripts/validate_sound.py sounds/community/<pack_id>.zip
+   python3 scripts/validate_sound.py sounds/community/<sound_id>.<ext>
    ```
 4. Open a Pull Request.
 
