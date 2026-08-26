@@ -9,5 +9,4 @@ __pycache__/
 dictionaries/*.dict
 models/**/*.tflite
 models/**/*.model
-fonts/*.ttf
 

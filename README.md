@@ -29,7 +29,6 @@ astral-assets/
 │   └── community/                          # Community sound packs (.zip)
 ├── dictionaries/                           # AOSP binary dictionaries (.dict)
 ├── models/                                 # TFLite neural language models
-├── fonts/                                  # Bundled typography TTF fonts
 ├── stickers/                               # Sticker packs & manifests
 └── scripts/
     ├── validate_theme.py                   # Theme safety & schema validator
